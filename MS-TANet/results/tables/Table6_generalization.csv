@@ -1,0 +1,5 @@
+Protocol,RMSE,MAE,R2,NRMSE_pct,Delta_R2_vs_chronological
+Chronological 5-fold blocked TS-CV,4.040,3.210,0.872,6.300,0.000
+Athlete-wise 5-fold CV,4.410,3.500,0.846,6.840,-0.026
+Leave-One-Athlete-Out (LOAO),4.530,3.590,0.838,7.020,-0.034
+Leave-One-Sport-Out (LOSO),5.260,4.170,0.764,8.140,-0.108

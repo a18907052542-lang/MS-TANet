@@ -1,0 +1,7 @@
+Indicator,Without_physics_constraint,With_physics_constraint,Direction
+Negative-λ rate (%),14.200,0.000,Required to remain 0
+Attention monotonicity score,0.710,0.930,Higher is better
+Half-life within 14-30 d physiological range (%),68.300,95.700,Higher is better
+Gating-phase consistency F-statistic,21.400,68.400,Higher is better
+Daily-prediction one-day step variability (au),0.420,0.180,Lower is better
+R² on held-out fold,0.856,0.872,Higher is better

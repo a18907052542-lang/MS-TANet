@@ -1,0 +1,4 @@
+Training_strategy,Final_validation_RMSE,Epochs_to_best_validation,Train_test_gap_RMSE,Overfitting_index
+Three-stage curriculum learning,0.286,260,0.031,0.120
+Epoch-matched direct training (300 ep),0.301,210,0.073,0.320
+Original direct training (~120 ep),0.310,120,0.087,0.390

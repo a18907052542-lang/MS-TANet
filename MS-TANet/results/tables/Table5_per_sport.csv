@@ -1,0 +1,5 @@
+Sport,N_athletes,N_records,RMSE,MAE,R2,NRMSE_pct,Coverage95_pct
+Swimming,18,5856,3.620,2.830,0.891,5.420,94.800
+Distance Running,17,5529,4.180,3.300,0.847,6.510,93.500
+Rowing,12,4096,4.310,3.410,0.812,6.970,92.800
+All three sports,47,15481,4.040,3.210,0.850,6.300,93.700

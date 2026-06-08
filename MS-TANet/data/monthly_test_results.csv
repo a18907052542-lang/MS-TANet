@@ -1,0 +1,847 @@
+Athlete_ID,Sport,Sex,Test_month_index,Test_date,Body_mass_kg,Body_fat_percent,VO2max_ml_kg_min,Resting_HR_bpm,Sport_performance_raw,Sport_performance_unit,Sport_performance_standardized_0_100
+SW-M-01,Swimming,Male,1,2024-04-11,65.4,14.5,62.5,51,61.05,seconds (100m freestyle),44.33
+SW-M-01,Swimming,Male,2,2024-05-14,69.2,14.5,62.3,50,60.1,seconds (100m freestyle),49.53
+SW-M-01,Swimming,Male,3,2024-06-17,69.8,15.5,59.2,51,61.3,seconds (100m freestyle),42.97
+SW-M-01,Swimming,Male,4,2024-07-17,68.3,14.7,61.0,52,59.88,seconds (100m freestyle),50.74
+SW-M-01,Swimming,Male,5,2024-08-15,68.0,14.1,61.4,52,60.44,seconds (100m freestyle),47.67
+SW-M-01,Swimming,Male,6,2024-09-18,70.5,14.8,60.8,52,61.82,seconds (100m freestyle),40.12
+SW-M-01,Swimming,Male,7,2024-10-16,70.2,13.4,61.0,55,60.5,seconds (100m freestyle),47.35
+SW-M-01,Swimming,Male,8,2024-11-17,69.9,14.9,63.7,53,59.46,seconds (100m freestyle),53.04
+SW-M-01,Swimming,Male,9,2024-12-13,67.7,14.1,62.5,51,59.54,seconds (100m freestyle),52.6
+SW-M-01,Swimming,Male,10,2025-01-18,68.3,15.6,61.9,48,60.4,seconds (100m freestyle),47.89
+SW-M-01,Swimming,Male,11,2025-02-11,68.6,14.6,63.5,53,63.44,seconds (100m freestyle),31.25
+SW-M-01,Swimming,Male,12,2025-03-14,68.4,14.6,61.2,49,60.75,seconds (100m freestyle),45.98
+SW-M-01,Swimming,Male,13,2025-04-15,69.3,16.2,63.4,53,58.02,seconds (100m freestyle),60.92
+SW-M-01,Swimming,Male,14,2025-05-12,67.6,15.3,61.5,51,59.63,seconds (100m freestyle),52.11
+SW-M-01,Swimming,Male,15,2025-06-13,66.9,14.8,61.5,51,60.19,seconds (100m freestyle),49.04
+SW-M-01,Swimming,Male,16,2025-07-11,68.9,14.3,60.7,52,58.64,seconds (100m freestyle),57.53
+SW-M-01,Swimming,Male,17,2025-08-15,68.4,15.7,61.9,51,61.69,seconds (100m freestyle),40.83
+SW-M-01,Swimming,Male,18,2025-09-16,68.4,14.5,60.6,52,62.03,seconds (100m freestyle),38.97
+SW-M-02,Swimming,Male,1,2024-04-11,73.0,13.0,65.4,47,57.4,seconds (100m freestyle),64.31
+SW-M-02,Swimming,Male,2,2024-05-14,71.7,12.1,63.8,45,56.0,seconds (100m freestyle),71.98
+SW-M-02,Swimming,Male,3,2024-06-17,70.4,13.1,63.5,48,57.33,seconds (100m freestyle),64.7
+SW-M-02,Swimming,Male,4,2024-07-17,71.6,13.5,64.6,44,57.66,seconds (100m freestyle),62.89
+SW-M-02,Swimming,Male,5,2024-08-15,72.0,12.8,68.8,42,58.77,seconds (100m freestyle),56.81
+SW-M-02,Swimming,Male,6,2024-09-18,73.8,11.7,63.1,42,57.26,seconds (100m freestyle),65.08
+SW-M-02,Swimming,Male,7,2024-10-16,72.8,12.7,63.7,47,55.2,seconds (100m freestyle),76.35
+SW-M-02,Swimming,Male,8,2024-11-17,73.0,12.7,66.4,45,58.48,seconds (100m freestyle),58.4
+SW-M-02,Swimming,Male,9,2024-12-13,72.1,13.4,66.8,42,54.24,seconds (100m freestyle),81.61
+SW-M-02,Swimming,Male,10,2025-01-18,72.0,13.1,62.0,46,56.42,seconds (100m freestyle),69.68
+SW-M-02,Swimming,Male,11,2025-02-11,74.6,12.2,66.2,41,59.74,seconds (100m freestyle),51.51
+SW-M-02,Swimming,Male,12,2025-03-14,72.4,12.8,63.7,45,60.0,seconds (100m freestyle),50.08
+SW-M-02,Swimming,Male,13,2025-04-15,74.1,12.5,60.9,45,56.17,seconds (100m freestyle),71.05
+SW-M-02,Swimming,Male,14,2025-05-12,74.2,13.6,68.0,39,57.25,seconds (100m freestyle),65.13
+SW-M-02,Swimming,Male,15,2025-06-13,73.7,12.2,64.0,42,55.53,seconds (100m freestyle),74.55
+SW-M-02,Swimming,Male,16,2025-07-11,71.2,12.2,63.6,48,57.36,seconds (100m freestyle),64.53
+SW-M-02,Swimming,Male,17,2025-08-15,72.4,12.9,61.7,41,57.47,seconds (100m freestyle),63.93
+SW-M-02,Swimming,Male,18,2025-09-16,69.9,12.5,62.4,45,58.17,seconds (100m freestyle),60.1
+SW-M-03,Swimming,Male,1,2024-04-11,76.8,13.6,67.7,49,54.69,seconds (100m freestyle),79.15
+SW-M-03,Swimming,Male,2,2024-05-14,75.6,13.7,67.7,47,55.78,seconds (100m freestyle),73.18
+SW-M-03,Swimming,Male,3,2024-06-17,78.9,12.8,69.1,48,55.35,seconds (100m freestyle),75.53
+SW-M-03,Swimming,Male,4,2024-07-17,78.4,12.6,70.4,42,57.01,seconds (100m freestyle),66.45
+SW-M-03,Swimming,Male,5,2024-08-15,77.5,14.4,73.5,46,55.59,seconds (100m freestyle),74.22
+SW-M-03,Swimming,Male,6,2024-09-18,76.4,12.5,70.8,49,54.26,seconds (100m freestyle),81.5
+SW-M-03,Swimming,Male,7,2024-10-16,78.1,13.5,67.9,48,56.95,seconds (100m freestyle),66.78
+SW-M-03,Swimming,Male,8,2024-11-17,77.0,14.2,70.1,47,54.9,seconds (100m freestyle),78.0
+SW-M-03,Swimming,Male,9,2024-12-13,78.8,13.1,67.2,46,54.29,seconds (100m freestyle),81.34
+SW-M-03,Swimming,Male,10,2025-01-18,78.3,12.5,70.0,44,54.52,seconds (100m freestyle),80.08
+SW-M-03,Swimming,Male,11,2025-02-11,78.1,13.4,72.3,48,56.04,seconds (100m freestyle),71.76
+SW-M-03,Swimming,Male,12,2025-03-14,76.5,13.6,71.5,44,56.37,seconds (100m freestyle),69.95
+SW-M-03,Swimming,Male,13,2025-04-15,74.5,13.8,72.2,44,55.34,seconds (100m freestyle),75.59
+SW-M-03,Swimming,Male,14,2025-05-12,79.1,13.6,72.9,48,54.6,seconds (100m freestyle),79.64
+SW-M-03,Swimming,Male,15,2025-06-13,78.6,13.8,68.7,44,54.11,seconds (100m freestyle),82.32
+SW-M-03,Swimming,Male,16,2025-07-11,76.9,14.2,69.1,51,55.68,seconds (100m freestyle),73.73
+SW-M-03,Swimming,Male,17,2025-08-15,78.2,11.9,67.3,50,55.69,seconds (100m freestyle),73.67
+SW-M-03,Swimming,Male,18,2025-09-16,75.3,13.4,70.6,46,54.43,seconds (100m freestyle),80.57
+SW-M-04,Swimming,Male,1,2024-04-11,71.3,15.5,63.9,59,57.03,seconds (100m freestyle),66.34
+SW-M-04,Swimming,Male,2,2024-05-14,70.9,13.9,58.9,54,59.16,seconds (100m freestyle),54.68
+SW-M-04,Swimming,Male,3,2024-06-17,70.6,15.4,62.9,55,57.74,seconds (100m freestyle),62.45
+SW-M-04,Swimming,Male,4,2024-07-17,70.7,14.7,66.2,50,59.3,seconds (100m freestyle),53.91
+SW-M-04,Swimming,Male,5,2024-08-15,71.0,15.4,62.0,56,57.81,seconds (100m freestyle),62.07
+SW-M-04,Swimming,Male,6,2024-09-18,70.0,14.8,60.5,57,59.26,seconds (100m freestyle),54.13
+SW-M-04,Swimming,Male,7,2024-10-16,68.6,15.4,60.4,58,59.05,seconds (100m freestyle),55.28
+SW-M-04,Swimming,Male,8,2024-11-17,70.4,14.7,62.9,53,56.89,seconds (100m freestyle),67.1
+SW-M-04,Swimming,Male,9,2024-12-13,72.4,14.4,66.2,54,58.04,seconds (100m freestyle),60.81
+SW-M-04,Swimming,Male,10,2025-01-18,70.8,14.7,64.5,50,55.66,seconds (100m freestyle),73.84
+SW-M-04,Swimming,Male,11,2025-02-11,66.8,14.8,67.6,55,59.7,seconds (100m freestyle),51.72
+SW-M-04,Swimming,Male,12,2025-03-14,70.4,13.0,64.7,54,57.91,seconds (100m freestyle),61.52
+SW-M-04,Swimming,Male,13,2025-04-15,70.3,14.6,66.5,56,56.96,seconds (100m freestyle),66.72
+SW-M-04,Swimming,Male,14,2025-05-12,69.3,13.4,65.8,52,58.14,seconds (100m freestyle),60.26
+SW-M-04,Swimming,Male,15,2025-06-13,67.5,12.9,61.0,53,58.13,seconds (100m freestyle),60.32
+SW-M-04,Swimming,Male,16,2025-07-11,70.7,13.5,63.5,58,57.93,seconds (100m freestyle),61.41
+SW-M-04,Swimming,Male,17,2025-08-15,69.5,15.7,60.3,58,60.68,seconds (100m freestyle),46.36
+SW-M-04,Swimming,Male,18,2025-09-16,71.5,15.2,64.0,54,59.1,seconds (100m freestyle),55.01
+SW-M-05,Swimming,Male,1,2024-04-11,79.9,12.5,65.4,44,54.34,seconds (100m freestyle),81.06
+SW-M-05,Swimming,Male,2,2024-05-14,78.9,11.5,64.0,48,52.58,seconds (100m freestyle),90.7
+SW-M-05,Swimming,Male,3,2024-06-17,79.8,10.8,63.0,47,51.37,seconds (100m freestyle),97.32
+SW-M-05,Swimming,Male,4,2024-07-17,78.6,11.5,62.5,40,52.55,seconds (100m freestyle),90.86
+SW-M-05,Swimming,Male,5,2024-08-15,79.7,11.2,65.8,42,55.14,seconds (100m freestyle),76.68
+SW-M-05,Swimming,Male,6,2024-09-18,81.5,10.3,66.0,45,52.82,seconds (100m freestyle),89.38
+SW-M-05,Swimming,Male,7,2024-10-16,79.2,11.1,64.8,44,51.94,seconds (100m freestyle),94.2
+SW-M-05,Swimming,Male,8,2024-11-17,76.3,12.4,68.5,43,51.78,seconds (100m freestyle),95.07
+SW-M-05,Swimming,Male,9,2024-12-13,76.0,12.6,66.1,49,51.46,seconds (100m freestyle),96.83
+SW-M-05,Swimming,Male,10,2025-01-18,80.5,10.9,68.5,44,52.62,seconds (100m freestyle),90.48
+SW-M-05,Swimming,Male,11,2025-02-11,79.2,13.1,64.0,42,53.22,seconds (100m freestyle),87.19
+SW-M-05,Swimming,Male,12,2025-03-14,77.5,11.8,61.2,47,53.92,seconds (100m freestyle),83.36
+SW-M-05,Swimming,Male,13,2025-04-15,80.3,12.2,63.6,45,53.93,seconds (100m freestyle),83.31
+SW-M-05,Swimming,Male,14,2025-05-12,76.2,11.1,60.1,44,52.05,seconds (100m freestyle),93.6
+SW-M-05,Swimming,Male,15,2025-06-13,78.7,10.8,70.4,40,52.74,seconds (100m freestyle),89.82
+SW-M-05,Swimming,Male,16,2025-07-11,79.2,10.6,65.6,44,51.9,seconds (100m freestyle),94.42
+SW-M-05,Swimming,Male,17,2025-08-15,80.9,11.5,64.5,45,54.44,seconds (100m freestyle),80.51
+SW-M-05,Swimming,Male,18,2025-09-16,77.1,12.4,63.1,44,54.07,seconds (100m freestyle),82.54
+SW-M-06,Swimming,Male,1,2024-04-11,73.3,12.3,60.8,51,59.51,seconds (100m freestyle),52.76
+SW-M-06,Swimming,Male,2,2024-05-14,75.9,10.2,57.8,50,59.16,seconds (100m freestyle),54.68
+SW-M-06,Swimming,Male,3,2024-06-17,74.5,12.4,62.1,50,58.74,seconds (100m freestyle),56.98
+SW-M-06,Swimming,Male,4,2024-07-17,75.4,11.8,62.9,50,59.35,seconds (100m freestyle),53.64
+SW-M-06,Swimming,Male,5,2024-08-15,75.1,10.3,62.0,47,59.86,seconds (100m freestyle),50.85
+SW-M-06,Swimming,Male,6,2024-09-18,76.0,10.2,64.4,46,59.73,seconds (100m freestyle),51.56
+SW-M-06,Swimming,Male,7,2024-10-16,76.9,11.1,57.1,48,61.65,seconds (100m freestyle),41.05
+SW-M-06,Swimming,Male,8,2024-11-17,77.2,10.1,62.6,50,57.63,seconds (100m freestyle),63.05
+SW-M-06,Swimming,Male,9,2024-12-13,76.6,10.2,59.9,50,56.24,seconds (100m freestyle),70.66
+SW-M-06,Swimming,Male,10,2025-01-18,78.0,10.5,56.1,50,58.75,seconds (100m freestyle),56.92
+SW-M-06,Swimming,Male,11,2025-02-11,75.3,11.5,58.6,46,59.62,seconds (100m freestyle),52.16
+SW-M-06,Swimming,Male,12,2025-03-14,73.6,11.3,60.1,47,60.73,seconds (100m freestyle),46.09
+SW-M-06,Swimming,Male,13,2025-04-15,75.5,11.9,62.8,49,58.07,seconds (100m freestyle),60.65
+SW-M-06,Swimming,Male,14,2025-05-12,74.4,11.5,59.0,49,57.68,seconds (100m freestyle),62.78
+SW-M-06,Swimming,Male,15,2025-06-13,74.3,9.7,61.5,50,59.89,seconds (100m freestyle),50.68
+SW-M-06,Swimming,Male,16,2025-07-11,75.9,11.9,58.8,49,60.43,seconds (100m freestyle),47.73
+SW-M-06,Swimming,Male,17,2025-08-15,75.0,11.5,59.5,51,60.1,seconds (100m freestyle),49.53
+SW-M-06,Swimming,Male,18,2025-09-16,75.3,10.4,58.8,47,61.24,seconds (100m freestyle),43.3
+SW-M-07,Swimming,Male,1,2024-04-11,65.3,12.9,60.5,50,53.87,seconds (100m freestyle),83.63
+SW-M-07,Swimming,Male,2,2024-05-14,67.6,13.8,63.5,43,51.68,seconds (100m freestyle),95.62
+SW-M-07,Swimming,Male,3,2024-06-17,67.7,13.5,60.9,46,52.27,seconds (100m freestyle),92.39
+SW-M-07,Swimming,Male,4,2024-07-17,65.7,13.4,64.7,48,53.14,seconds (100m freestyle),87.63
+SW-M-07,Swimming,Male,5,2024-08-15,62.2,13.5,65.1,46,53.04,seconds (100m freestyle),88.18
+SW-M-07,Swimming,Male,6,2024-09-18,67.4,14.2,62.4,46,52.9,seconds (100m freestyle),88.94
+SW-M-07,Swimming,Male,7,2024-10-16,64.8,13.4,62.7,48,52.7,seconds (100m freestyle),90.04
+SW-M-07,Swimming,Male,8,2024-11-17,64.6,12.5,63.9,50,53.79,seconds (100m freestyle),84.07
+SW-M-07,Swimming,Male,9,2024-12-13,64.9,12.4,58.5,45,52.29,seconds (100m freestyle),92.28
+SW-M-07,Swimming,Male,10,2025-01-18,67.0,12.9,64.2,46,55.35,seconds (100m freestyle),75.53
+SW-M-07,Swimming,Male,11,2025-02-11,64.9,12.8,64.3,51,52.64,seconds (100m freestyle),90.37
+SW-M-07,Swimming,Male,12,2025-03-14,65.2,14.8,58.7,44,52.04,seconds (100m freestyle),93.65
+SW-M-07,Swimming,Male,13,2025-04-15,64.7,14.3,59.6,46,52.22,seconds (100m freestyle),92.67
+SW-M-07,Swimming,Male,14,2025-05-12,64.7,14.3,61.4,46,50.88,seconds (100m freestyle),100.0
+SW-M-07,Swimming,Male,15,2025-06-13,64.3,13.2,61.3,43,52.07,seconds (100m freestyle),93.49
+SW-M-07,Swimming,Male,16,2025-07-11,64.9,13.9,63.8,50,52.1,seconds (100m freestyle),93.32
+SW-M-07,Swimming,Male,17,2025-08-15,66.5,13.4,64.7,46,53.58,seconds (100m freestyle),85.22
+SW-M-07,Swimming,Male,18,2025-09-16,64.9,12.9,63.8,44,53.36,seconds (100m freestyle),86.43
+SW-M-08,Swimming,Male,1,2024-04-11,66.1,15.8,66.4,56,57.75,seconds (100m freestyle),62.4
+SW-M-08,Swimming,Male,2,2024-05-14,63.8,15.7,64.5,58,57.86,seconds (100m freestyle),61.8
+SW-M-08,Swimming,Male,3,2024-06-17,62.6,15.2,67.7,62,55.68,seconds (100m freestyle),73.73
+SW-M-08,Swimming,Male,4,2024-07-17,63.7,15.3,65.5,57,56.14,seconds (100m freestyle),71.21
+SW-M-08,Swimming,Male,5,2024-08-15,64.8,14.9,69.4,60,58.61,seconds (100m freestyle),57.69
+SW-M-08,Swimming,Male,6,2024-09-18,63.4,15.2,64.6,59,58.8,seconds (100m freestyle),56.65
+SW-M-08,Swimming,Male,7,2024-10-16,64.1,13.2,69.8,59,56.64,seconds (100m freestyle),68.47
+SW-M-08,Swimming,Male,8,2024-11-17,64.6,14.1,69.5,58,56.24,seconds (100m freestyle),70.66
+SW-M-08,Swimming,Male,9,2024-12-13,67.3,14.8,66.9,55,57.72,seconds (100m freestyle),62.56
+SW-M-08,Swimming,Male,10,2025-01-18,63.9,15.4,67.3,53,57.45,seconds (100m freestyle),64.04
+SW-M-08,Swimming,Male,11,2025-02-11,62.9,15.8,70.3,55,57.72,seconds (100m freestyle),62.56
+SW-M-08,Swimming,Male,12,2025-03-14,66.8,16.6,69.8,57,57.88,seconds (100m freestyle),61.69
+SW-M-08,Swimming,Male,13,2025-04-15,66.2,15.4,69.4,52,56.85,seconds (100m freestyle),67.32
+SW-M-08,Swimming,Male,14,2025-05-12,62.9,15.7,68.4,55,56.22,seconds (100m freestyle),70.77
+SW-M-08,Swimming,Male,15,2025-06-13,62.6,15.2,66.6,57,57.17,seconds (100m freestyle),65.57
+SW-M-08,Swimming,Male,16,2025-07-11,64.1,13.8,68.5,57,55.59,seconds (100m freestyle),74.22
+SW-M-08,Swimming,Male,17,2025-08-15,63.3,14.8,69.8,57,58.22,seconds (100m freestyle),59.82
+SW-M-08,Swimming,Male,18,2025-09-16,65.1,15.5,69.7,52,58.39,seconds (100m freestyle),58.89
+SW-M-09,Swimming,Male,1,2024-04-11,72.4,11.9,66.7,44,57.06,seconds (100m freestyle),66.17
+SW-M-09,Swimming,Male,2,2024-05-14,70.2,11.7,68.0,43,55.68,seconds (100m freestyle),73.73
+SW-M-09,Swimming,Male,3,2024-06-17,71.7,11.5,67.7,47,56.55,seconds (100m freestyle),68.97
+SW-M-09,Swimming,Male,4,2024-07-17,72.1,12.2,66.1,42,56.9,seconds (100m freestyle),67.05
+SW-M-09,Swimming,Male,5,2024-08-15,70.4,13.3,69.6,47,57.39,seconds (100m freestyle),64.37
+SW-M-09,Swimming,Male,6,2024-09-18,71.5,11.6,70.5,45,56.1,seconds (100m freestyle),71.43
+SW-M-09,Swimming,Male,7,2024-10-16,71.2,11.2,66.8,43,56.18,seconds (100m freestyle),70.99
+SW-M-09,Swimming,Male,8,2024-11-17,69.8,12.3,66.5,43,56.23,seconds (100m freestyle),70.72
+SW-M-09,Swimming,Male,9,2024-12-13,74.7,11.9,67.3,48,56.09,seconds (100m freestyle),71.48
+SW-M-09,Swimming,Male,10,2025-01-18,73.4,12.8,64.2,44,58.56,seconds (100m freestyle),57.96
+SW-M-09,Swimming,Male,11,2025-02-11,71.6,12.4,73.8,44,57.04,seconds (100m freestyle),66.28
+SW-M-09,Swimming,Male,12,2025-03-14,70.2,11.8,67.3,44,56.96,seconds (100m freestyle),66.72
+SW-M-09,Swimming,Male,13,2025-04-15,72.0,13.5,73.2,48,55.93,seconds (100m freestyle),72.36
+SW-M-09,Swimming,Male,14,2025-05-12,71.8,12.4,69.4,42,55.91,seconds (100m freestyle),72.47
+SW-M-09,Swimming,Male,15,2025-06-13,69.7,12.9,68.7,43,56.96,seconds (100m freestyle),66.72
+SW-M-09,Swimming,Male,16,2025-07-11,71.0,11.6,68.6,45,57.95,seconds (100m freestyle),61.3
+SW-M-09,Swimming,Male,17,2025-08-15,73.6,11.8,71.8,42,55.42,seconds (100m freestyle),75.15
+SW-M-09,Swimming,Male,18,2025-09-16,71.5,11.6,70.7,48,56.21,seconds (100m freestyle),70.83
+SW-M-10,Swimming,Male,1,2024-04-11,78.1,14.9,60.7,56,56.02,seconds (100m freestyle),71.87
+SW-M-10,Swimming,Male,2,2024-05-14,77.9,16.1,61.4,58,54.33,seconds (100m freestyle),81.12
+SW-M-10,Swimming,Male,3,2024-06-17,77.4,15.2,59.3,50,56.11,seconds (100m freestyle),71.37
+SW-M-10,Swimming,Male,4,2024-07-17,80.2,15.3,59.4,50,55.74,seconds (100m freestyle),73.4
+SW-M-10,Swimming,Male,5,2024-08-15,75.0,15.5,59.1,54,58.15,seconds (100m freestyle),60.21
+SW-M-10,Swimming,Male,6,2024-09-18,74.4,15.1,63.8,53,55.74,seconds (100m freestyle),73.4
+SW-M-10,Swimming,Male,7,2024-10-16,79.6,16.0,56.4,56,55.66,seconds (100m freestyle),73.84
+SW-M-10,Swimming,Male,8,2024-11-17,77.8,14.7,58.9,49,55.76,seconds (100m freestyle),73.29
+SW-M-10,Swimming,Male,9,2024-12-13,79.2,15.9,60.7,56,55.49,seconds (100m freestyle),74.77
+SW-M-10,Swimming,Male,10,2025-01-18,76.3,14.5,54.6,53,56.69,seconds (100m freestyle),68.2
+SW-M-10,Swimming,Male,11,2025-02-11,78.1,15.0,57.4,53,56.34,seconds (100m freestyle),70.11
+SW-M-10,Swimming,Male,12,2025-03-14,78.8,15.4,64.6,50,55.23,seconds (100m freestyle),76.19
+SW-M-10,Swimming,Male,13,2025-04-15,77.0,15.5,62.4,51,56.18,seconds (100m freestyle),70.99
+SW-M-10,Swimming,Male,14,2025-05-12,78.2,14.8,55.0,54,55.77,seconds (100m freestyle),73.23
+SW-M-10,Swimming,Male,15,2025-06-13,78.4,15.1,58.0,57,53.86,seconds (100m freestyle),83.69
+SW-M-10,Swimming,Male,16,2025-07-11,78.3,15.0,56.0,52,54.34,seconds (100m freestyle),81.06
+SW-M-10,Swimming,Male,17,2025-08-15,77.1,15.3,58.3,55,57.87,seconds (100m freestyle),61.74
+SW-M-10,Swimming,Male,18,2025-09-16,77.8,15.7,57.9,56,56.27,seconds (100m freestyle),70.5
+SW-F-01,Swimming,Female,1,2024-04-11,55.3,19.3,59.7,57,65.21,seconds (100m freestyle),21.57
+SW-F-01,Swimming,Female,2,2024-05-14,55.8,20.7,61.9,57,63.99,seconds (100m freestyle),28.24
+SW-F-01,Swimming,Female,3,2024-06-17,55.7,20.7,59.9,59,65.02,seconds (100m freestyle),22.61
+SW-F-01,Swimming,Female,4,2024-07-17,55.1,20.8,60.6,59,65.29,seconds (100m freestyle),21.13
+SW-F-01,Swimming,Female,5,2024-08-15,52.7,20.2,61.4,56,66.6,seconds (100m freestyle),13.96
+SW-F-01,Swimming,Female,6,2024-09-18,56.0,20.6,58.4,51,66.52,seconds (100m freestyle),14.4
+SW-F-01,Swimming,Female,7,2024-10-16,55.7,19.4,59.1,58,66.19,seconds (100m freestyle),16.2
+SW-F-01,Swimming,Female,8,2024-11-17,55.0,20.6,60.2,52,64.83,seconds (100m freestyle),23.65
+SW-F-01,Swimming,Female,9,2024-12-13,54.3,20.6,60.1,54,64.86,seconds (100m freestyle),23.48
+SW-F-01,Swimming,Female,10,2025-01-18,55.4,19.4,62.4,49,65.64,seconds (100m freestyle),19.21
+SW-F-01,Swimming,Female,11,2025-02-11,55.1,19.6,56.9,56,64.27,seconds (100m freestyle),26.71
+SW-F-01,Swimming,Female,12,2025-03-14,54.8,18.1,60.0,55,66.74,seconds (100m freestyle),13.19
+SW-F-01,Swimming,Female,13,2025-04-15,56.5,20.1,58.3,56,65.56,seconds (100m freestyle),19.65
+SW-F-01,Swimming,Female,14,2025-05-12,54.8,19.0,58.6,57,64.91,seconds (100m freestyle),23.21
+SW-F-01,Swimming,Female,15,2025-06-13,54.5,17.9,60.0,54,66.1,seconds (100m freestyle),16.69
+SW-F-01,Swimming,Female,16,2025-07-11,56.8,19.6,61.3,55,66.47,seconds (100m freestyle),14.67
+SW-F-01,Swimming,Female,17,2025-08-15,54.9,19.4,58.0,54,62.76,seconds (100m freestyle),34.98
+SW-F-01,Swimming,Female,18,2025-09-16,55.4,19.0,60.9,54,67.16,seconds (100m freestyle),10.89
+SW-F-02,Swimming,Female,1,2024-04-11,59.5,18.9,55.5,50,59.44,seconds (100m freestyle),53.15
+SW-F-02,Swimming,Female,2,2024-05-14,59.3,19.5,56.9,49,60.41,seconds (100m freestyle),47.84
+SW-F-02,Swimming,Female,3,2024-06-17,58.4,20.1,55.2,55,61.64,seconds (100m freestyle),41.11
+SW-F-02,Swimming,Female,4,2024-07-17,57.2,18.7,58.8,52,61.08,seconds (100m freestyle),44.17
+SW-F-02,Swimming,Female,5,2024-08-15,58.1,20.8,61.8,52,61.21,seconds (100m freestyle),43.46
+SW-F-02,Swimming,Female,6,2024-09-18,56.3,19.9,60.3,50,60.08,seconds (100m freestyle),49.64
+SW-F-02,Swimming,Female,7,2024-10-16,58.8,18.9,53.8,54,58.35,seconds (100m freestyle),59.11
+SW-F-02,Swimming,Female,8,2024-11-17,58.7,19.1,55.2,55,60.52,seconds (100m freestyle),47.24
+SW-F-02,Swimming,Female,9,2024-12-13,58.6,19.1,52.4,50,58.95,seconds (100m freestyle),55.83
+SW-F-02,Swimming,Female,10,2025-01-18,56.7,18.1,54.6,53,59.25,seconds (100m freestyle),54.19
+SW-F-02,Swimming,Female,11,2025-02-11,56.6,19.2,59.5,52,62.05,seconds (100m freestyle),38.86
+SW-F-02,Swimming,Female,12,2025-03-14,59.4,18.6,58.9,48,61.26,seconds (100m freestyle),43.19
+SW-F-02,Swimming,Female,13,2025-04-15,58.3,18.9,57.5,54,60.86,seconds (100m freestyle),45.37
+SW-F-02,Swimming,Female,14,2025-05-12,58.8,18.7,61.6,53,59.39,seconds (100m freestyle),53.42
+SW-F-02,Swimming,Female,15,2025-06-13,57.2,21.1,58.1,49,60.0,seconds (100m freestyle),50.08
+SW-F-02,Swimming,Female,16,2025-07-11,58.7,19.3,61.1,51,60.04,seconds (100m freestyle),49.86
+SW-F-02,Swimming,Female,17,2025-08-15,56.5,19.7,56.5,51,60.49,seconds (100m freestyle),47.4
+SW-F-02,Swimming,Female,18,2025-09-16,59.7,17.9,57.4,56,62.86,seconds (100m freestyle),34.43
+SW-F-03,Swimming,Female,1,2024-04-11,60.0,19.9,52.1,49,63.78,seconds (100m freestyle),29.39
+SW-F-03,Swimming,Female,2,2024-05-14,60.5,19.6,54.7,44,62.52,seconds (100m freestyle),36.29
+SW-F-03,Swimming,Female,3,2024-06-17,61.0,21.2,53.2,45,62.12,seconds (100m freestyle),38.48
+SW-F-03,Swimming,Female,4,2024-07-17,61.7,21.1,54.8,44,61.67,seconds (100m freestyle),40.94
+SW-F-03,Swimming,Female,5,2024-08-15,59.8,18.3,52.8,50,61.35,seconds (100m freestyle),42.69
+SW-F-03,Swimming,Female,6,2024-09-18,60.8,20.7,55.2,50,65.77,seconds (100m freestyle),18.5
+SW-F-03,Swimming,Female,7,2024-10-16,60.5,19.5,56.3,49,64.9,seconds (100m freestyle),23.26
+SW-F-03,Swimming,Female,8,2024-11-17,60.4,20.8,52.7,48,64.3,seconds (100m freestyle),26.55
+SW-F-03,Swimming,Female,9,2024-12-13,61.2,22.1,53.4,50,63.17,seconds (100m freestyle),32.73
+SW-F-03,Swimming,Female,10,2025-01-18,60.8,21.7,54.1,48,63.67,seconds (100m freestyle),29.99
+SW-F-03,Swimming,Female,11,2025-02-11,61.9,21.4,56.4,43,65.32,seconds (100m freestyle),20.96
+SW-F-03,Swimming,Female,12,2025-03-14,60.8,21.2,58.0,48,66.73,seconds (100m freestyle),13.25
+SW-F-03,Swimming,Female,13,2025-04-15,60.5,19.7,55.6,50,63.77,seconds (100m freestyle),29.45
+SW-F-03,Swimming,Female,14,2025-05-12,59.4,21.0,53.5,49,62.67,seconds (100m freestyle),35.47
+SW-F-03,Swimming,Female,15,2025-06-13,60.6,19.9,54.6,49,61.44,seconds (100m freestyle),42.2
+SW-F-03,Swimming,Female,16,2025-07-11,60.8,21.3,55.1,42,64.74,seconds (100m freestyle),24.14
+SW-F-03,Swimming,Female,17,2025-08-15,60.2,20.4,55.1,52,65.62,seconds (100m freestyle),19.32
+SW-F-03,Swimming,Female,18,2025-09-16,60.0,20.1,54.7,52,65.09,seconds (100m freestyle),22.22
+SW-F-04,Swimming,Female,1,2024-04-11,58.4,18.6,62.9,61,58.28,seconds (100m freestyle),59.5
+SW-F-04,Swimming,Female,2,2024-05-14,55.4,20.1,64.3,60,58.32,seconds (100m freestyle),59.28
+SW-F-04,Swimming,Female,3,2024-06-17,56.3,19.7,62.5,58,57.95,seconds (100m freestyle),61.3
+SW-F-04,Swimming,Female,4,2024-07-17,54.8,20.0,60.2,58,60.01,seconds (100m freestyle),50.03
+SW-F-04,Swimming,Female,5,2024-08-15,55.8,20.0,57.4,64,58.55,seconds (100m freestyle),58.02
+SW-F-04,Swimming,Female,6,2024-09-18,53.1,17.8,61.3,58,60.7,seconds (100m freestyle),46.25
+SW-F-04,Swimming,Female,7,2024-10-16,56.5,19.4,66.3,62,57.89,seconds (100m freestyle),61.63
+SW-F-04,Swimming,Female,8,2024-11-17,57.8,18.6,62.6,54,57.16,seconds (100m freestyle),65.63
+SW-F-04,Swimming,Female,9,2024-12-13,56.9,20.1,65.9,59,57.79,seconds (100m freestyle),62.18
+SW-F-04,Swimming,Female,10,2025-01-18,55.5,19.6,62.8,54,58.5,seconds (100m freestyle),58.29
+SW-F-04,Swimming,Female,11,2025-02-11,54.3,19.1,63.4,60,61.66,seconds (100m freestyle),41.0
+SW-F-04,Swimming,Female,12,2025-03-14,55.8,18.3,61.3,53,60.08,seconds (100m freestyle),49.64
+SW-F-04,Swimming,Female,13,2025-04-15,55.8,19.2,63.2,54,57.3,seconds (100m freestyle),64.86
+SW-F-04,Swimming,Female,14,2025-05-12,56.1,19.8,63.0,57,58.66,seconds (100m freestyle),57.42
+SW-F-04,Swimming,Female,15,2025-06-13,56.1,20.1,59.2,60,59.83,seconds (100m freestyle),51.01
+SW-F-04,Swimming,Female,16,2025-07-11,56.5,19.7,61.8,58,58.17,seconds (100m freestyle),60.1
+SW-F-04,Swimming,Female,17,2025-08-15,55.2,19.5,61.9,56,60.44,seconds (100m freestyle),47.67
+SW-F-04,Swimming,Female,18,2025-09-16,55.3,20.5,61.9,57,60.33,seconds (100m freestyle),48.28
+SW-F-05,Swimming,Female,1,2024-04-11,62.3,20.9,57.6,50,65.45,seconds (100m freestyle),20.25
+SW-F-05,Swimming,Female,2,2024-05-14,62.2,20.5,56.9,53,64.01,seconds (100m freestyle),28.13
+SW-F-05,Swimming,Female,3,2024-06-17,63.4,20.5,52.3,52,66.39,seconds (100m freestyle),15.11
+SW-F-05,Swimming,Female,4,2024-07-17,62.9,20.6,52.9,50,66.24,seconds (100m freestyle),15.93
+SW-F-05,Swimming,Female,5,2024-08-15,63.9,21.6,54.9,48,66.7,seconds (100m freestyle),13.41
+SW-F-05,Swimming,Female,6,2024-09-18,63.4,20.9,56.1,53,66.45,seconds (100m freestyle),14.78
+SW-F-05,Swimming,Female,7,2024-10-16,62.3,21.1,53.7,50,64.82,seconds (100m freestyle),23.7
+SW-F-05,Swimming,Female,8,2024-11-17,62.9,21.5,55.8,50,65.26,seconds (100m freestyle),21.29
+SW-F-05,Swimming,Female,9,2024-12-13,61.2,20.8,55.7,48,65.21,seconds (100m freestyle),21.57
+SW-F-05,Swimming,Female,10,2025-01-18,62.8,19.6,55.2,49,65.65,seconds (100m freestyle),19.16
+SW-F-05,Swimming,Female,11,2025-02-11,61.3,20.3,53.6,53,67.41,seconds (100m freestyle),9.52
+SW-F-05,Swimming,Female,12,2025-03-14,64.4,20.8,55.6,50,66.23,seconds (100m freestyle),15.98
+SW-F-05,Swimming,Female,13,2025-04-15,62.3,20.7,52.0,49,64.22,seconds (100m freestyle),26.98
+SW-F-05,Swimming,Female,14,2025-05-12,62.6,19.5,57.9,46,64.78,seconds (100m freestyle),23.92
+SW-F-05,Swimming,Female,15,2025-06-13,62.7,21.8,57.0,49,64.98,seconds (100m freestyle),22.82
+SW-F-05,Swimming,Female,16,2025-07-11,62.4,20.3,55.8,51,65.37,seconds (100m freestyle),20.69
+SW-F-05,Swimming,Female,17,2025-08-15,61.8,21.7,55.4,50,66.63,seconds (100m freestyle),13.79
+SW-F-05,Swimming,Female,18,2025-09-16,62.6,19.4,52.6,48,66.22,seconds (100m freestyle),16.04
+SW-F-06,Swimming,Female,1,2024-04-11,57.6,18.5,56.9,51,67.82,seconds (100m freestyle),7.28
+SW-F-06,Swimming,Female,2,2024-05-14,58.7,18.7,66.6,51,64.27,seconds (100m freestyle),26.71
+SW-F-06,Swimming,Female,3,2024-06-17,57.0,19.3,58.8,51,65.92,seconds (100m freestyle),17.68
+SW-F-06,Swimming,Female,4,2024-07-17,59.0,20.1,65.1,52,65.36,seconds (100m freestyle),20.74
+SW-F-06,Swimming,Female,5,2024-08-15,59.0,20.1,62.9,46,66.29,seconds (100m freestyle),15.65
+SW-F-06,Swimming,Female,6,2024-09-18,59.6,19.5,63.0,48,69.15,seconds (100m freestyle),0.0
+SW-F-06,Swimming,Female,7,2024-10-16,57.1,20.0,62.6,50,66.65,seconds (100m freestyle),13.68
+SW-F-06,Swimming,Female,8,2024-11-17,57.1,19.8,64.5,53,66.59,seconds (100m freestyle),14.01
+SW-F-06,Swimming,Female,9,2024-12-13,56.9,21.9,67.9,46,65.89,seconds (100m freestyle),17.84
+SW-F-06,Swimming,Female,10,2025-01-18,56.2,20.8,66.4,51,65.11,seconds (100m freestyle),22.11
+SW-F-06,Swimming,Female,11,2025-02-11,58.6,19.7,64.3,48,66.99,seconds (100m freestyle),11.82
+SW-F-06,Swimming,Female,12,2025-03-14,59.1,20.0,63.5,48,67.97,seconds (100m freestyle),6.46
+SW-F-06,Swimming,Female,13,2025-04-15,57.6,19.5,66.5,54,67.18,seconds (100m freestyle),10.78
+SW-F-06,Swimming,Female,14,2025-05-12,58.3,19.6,59.1,51,66.36,seconds (100m freestyle),15.27
+SW-F-06,Swimming,Female,15,2025-06-13,56.5,20.3,65.4,51,67.38,seconds (100m freestyle),9.69
+SW-F-06,Swimming,Female,16,2025-07-11,58.7,19.9,61.7,54,66.55,seconds (100m freestyle),14.23
+SW-F-06,Swimming,Female,17,2025-08-15,58.2,19.1,57.6,47,68.93,seconds (100m freestyle),1.2
+SW-F-06,Swimming,Female,18,2025-09-16,57.5,21.8,64.7,47,66.85,seconds (100m freestyle),12.59
+SW-F-07,Swimming,Female,1,2024-04-11,58.1,19.7,57.7,50,62.91,seconds (100m freestyle),34.15
+SW-F-07,Swimming,Female,2,2024-05-14,57.5,19.8,54.4,49,65.01,seconds (100m freestyle),22.66
+SW-F-07,Swimming,Female,3,2024-06-17,57.4,20.4,54.9,54,62.81,seconds (100m freestyle),34.7
+SW-F-07,Swimming,Female,4,2024-07-17,57.4,20.4,58.2,62,63.61,seconds (100m freestyle),30.32
+SW-F-07,Swimming,Female,5,2024-08-15,57.9,19.4,59.1,52,64.91,seconds (100m freestyle),23.21
+SW-F-07,Swimming,Female,6,2024-09-18,57.6,21.1,58.2,54,64.37,seconds (100m freestyle),26.16
+SW-F-07,Swimming,Female,7,2024-10-16,58.3,20.7,56.7,54,63.22,seconds (100m freestyle),32.46
+SW-F-07,Swimming,Female,8,2024-11-17,58.5,20.5,60.8,50,63.81,seconds (100m freestyle),29.23
+SW-F-07,Swimming,Female,9,2024-12-13,58.5,20.4,56.9,57,63.15,seconds (100m freestyle),32.84
+SW-F-07,Swimming,Female,10,2025-01-18,56.5,20.3,59.4,54,64.37,seconds (100m freestyle),26.16
+SW-F-07,Swimming,Female,11,2025-02-11,58.1,21.0,54.6,53,64.71,seconds (100m freestyle),24.3
+SW-F-07,Swimming,Female,12,2025-03-14,59.0,18.9,57.8,57,64.08,seconds (100m freestyle),27.75
+SW-F-07,Swimming,Female,13,2025-04-15,57.5,20.8,61.2,54,64.21,seconds (100m freestyle),27.04
+SW-F-07,Swimming,Female,14,2025-05-12,56.2,19.0,57.4,55,64.78,seconds (100m freestyle),23.92
+SW-F-07,Swimming,Female,15,2025-06-13,57.0,20.4,58.5,55,63.85,seconds (100m freestyle),29.01
+SW-F-07,Swimming,Female,16,2025-07-11,56.5,20.9,58.2,55,64.2,seconds (100m freestyle),27.09
+SW-F-07,Swimming,Female,17,2025-08-15,58.0,19.6,60.2,56,64.57,seconds (100m freestyle),25.07
+SW-F-07,Swimming,Female,18,2025-09-16,57.5,19.8,62.3,60,64.63,seconds (100m freestyle),24.74
+SW-F-08,Swimming,Female,1,2024-04-11,61.2,21.4,60.7,46,62.82,seconds (100m freestyle),34.65
+SW-F-08,Swimming,Female,2,2024-05-14,60.3,20.3,61.4,54,62.95,seconds (100m freestyle),33.94
+SW-F-08,Swimming,Female,3,2024-06-17,62.5,19.8,58.7,51,64.36,seconds (100m freestyle),26.22
+SW-F-08,Swimming,Female,4,2024-07-17,62.4,19.8,59.2,46,65.95,seconds (100m freestyle),17.52
+SW-F-08,Swimming,Female,5,2024-08-15,61.7,21.5,59.1,52,66.76,seconds (100m freestyle),13.08
+SW-F-08,Swimming,Female,6,2024-09-18,62.1,22.3,57.9,52,65.15,seconds (100m freestyle),21.89
+SW-F-08,Swimming,Female,7,2024-10-16,63.3,21.5,58.8,50,63.96,seconds (100m freestyle),28.41
+SW-F-08,Swimming,Female,8,2024-11-17,60.7,20.8,57.0,56,64.58,seconds (100m freestyle),25.01
+SW-F-08,Swimming,Female,9,2024-12-13,60.9,20.7,60.7,48,62.49,seconds (100m freestyle),36.45
+SW-F-08,Swimming,Female,10,2025-01-18,60.4,21.0,58.8,53,64.52,seconds (100m freestyle),25.34
+SW-F-08,Swimming,Female,11,2025-02-11,63.2,20.5,56.1,48,64.35,seconds (100m freestyle),26.27
+SW-F-08,Swimming,Female,12,2025-03-14,60.5,20.8,55.2,50,62.83,seconds (100m freestyle),34.59
+SW-F-08,Swimming,Female,13,2025-04-15,61.4,20.8,61.7,49,63.91,seconds (100m freestyle),28.68
+SW-F-08,Swimming,Female,14,2025-05-12,62.0,20.4,57.8,52,63.25,seconds (100m freestyle),32.29
+SW-F-08,Swimming,Female,15,2025-06-13,62.3,21.7,57.5,53,63.33,seconds (100m freestyle),31.86
+SW-F-08,Swimming,Female,16,2025-07-11,62.7,21.0,56.8,48,64.4,seconds (100m freestyle),26.0
+SW-F-08,Swimming,Female,17,2025-08-15,62.7,20.8,56.2,49,64.11,seconds (100m freestyle),27.59
+SW-F-08,Swimming,Female,18,2025-09-16,61.7,21.6,55.2,50,65.36,seconds (100m freestyle),20.74
+DR-M-01,Distance Running,Male,1,2024-04-11,60.2,11.6,66.2,53,227.51,seconds per km (3000m TT),49.18
+DR-M-01,Distance Running,Male,2,2024-05-14,62.3,12.3,64.9,54,224.56,seconds per km (3000m TT),53.07
+DR-M-01,Distance Running,Male,3,2024-06-17,60.1,11.8,69.1,54,218.32,seconds per km (3000m TT),61.29
+DR-M-01,Distance Running,Male,4,2024-07-17,61.6,11.8,69.3,55,228.22,seconds per km (3000m TT),48.25
+DR-M-01,Distance Running,Male,5,2024-08-15,60.7,12.0,65.4,51,225.23,seconds per km (3000m TT),52.19
+DR-M-01,Distance Running,Male,6,2024-09-18,60.8,11.2,64.3,51,228.42,seconds per km (3000m TT),47.98
+DR-M-01,Distance Running,Male,7,2024-10-16,59.8,12.4,61.9,53,223.17,seconds per km (3000m TT),54.9
+DR-M-01,Distance Running,Male,8,2024-11-17,62.8,11.1,68.4,47,220.08,seconds per km (3000m TT),58.97
+DR-M-01,Distance Running,Male,9,2024-12-13,59.8,11.1,63.2,51,218.79,seconds per km (3000m TT),60.67
+DR-M-01,Distance Running,Male,10,2025-01-18,61.2,13.2,65.9,51,232.0,seconds per km (3000m TT),43.27
+DR-M-01,Distance Running,Male,11,2025-02-11,60.2,11.9,62.4,53,230.78,seconds per km (3000m TT),44.87
+DR-M-01,Distance Running,Male,12,2025-03-14,60.4,11.9,68.9,54,228.89,seconds per km (3000m TT),47.36
+DR-M-01,Distance Running,Male,13,2025-04-15,59.7,12.5,65.5,54,229.23,seconds per km (3000m TT),46.92
+DR-M-01,Distance Running,Male,14,2025-05-12,61.4,12.1,65.2,53,221.57,seconds per km (3000m TT),57.01
+DR-M-01,Distance Running,Male,15,2025-06-13,58.4,12.3,67.9,53,218.94,seconds per km (3000m TT),60.47
+DR-M-01,Distance Running,Male,16,2025-07-11,60.9,11.9,64.6,52,221.57,seconds per km (3000m TT),57.01
+DR-M-01,Distance Running,Male,17,2025-08-15,61.6,11.7,66.3,51,230.76,seconds per km (3000m TT),44.9
+DR-M-01,Distance Running,Male,18,2025-09-16,59.2,12.8,66.9,56,228.96,seconds per km (3000m TT),47.27
+DR-M-02,Distance Running,Male,1,2024-04-11,67.3,10.9,63.3,53,212.32,seconds per km (3000m TT),69.2
+DR-M-02,Distance Running,Male,2,2024-05-14,65.2,12.9,64.8,48,216.21,seconds per km (3000m TT),64.07
+DR-M-02,Distance Running,Male,3,2024-06-17,63.2,12.0,66.0,43,213.93,seconds per km (3000m TT),67.08
+DR-M-02,Distance Running,Male,4,2024-07-17,66.3,11.2,65.6,42,215.17,seconds per km (3000m TT),65.44
+DR-M-02,Distance Running,Male,5,2024-08-15,66.3,10.9,62.3,46,220.2,seconds per km (3000m TT),58.81
+DR-M-02,Distance Running,Male,6,2024-09-18,63.8,12.0,63.8,46,219.63,seconds per km (3000m TT),59.57
+DR-M-02,Distance Running,Male,7,2024-10-16,66.0,11.5,63.9,46,215.07,seconds per km (3000m TT),65.57
+DR-M-02,Distance Running,Male,8,2024-11-17,65.1,11.6,63.9,48,216.22,seconds per km (3000m TT),64.06
+DR-M-02,Distance Running,Male,9,2024-12-13,63.1,9.4,66.6,44,213.55,seconds per km (3000m TT),67.58
+DR-M-02,Distance Running,Male,10,2025-01-18,63.6,11.0,67.5,44,214.68,seconds per km (3000m TT),66.09
+DR-M-02,Distance Running,Male,11,2025-02-11,66.3,10.7,65.0,44,230.31,seconds per km (3000m TT),45.49
+DR-M-02,Distance Running,Male,12,2025-03-14,64.7,10.8,65.3,42,219.19,seconds per km (3000m TT),60.14
+DR-M-02,Distance Running,Male,13,2025-04-15,63.3,11.6,70.3,47,211.64,seconds per km (3000m TT),70.09
+DR-M-02,Distance Running,Male,14,2025-05-12,66.0,11.0,64.2,44,208.32,seconds per km (3000m TT),74.47
+DR-M-02,Distance Running,Male,15,2025-06-13,65.0,12.4,65.7,48,213.78,seconds per km (3000m TT),67.27
+DR-M-02,Distance Running,Male,16,2025-07-11,66.6,11.8,65.8,47,212.12,seconds per km (3000m TT),69.46
+DR-M-02,Distance Running,Male,17,2025-08-15,64.8,12.5,65.7,48,220.64,seconds per km (3000m TT),58.23
+DR-M-02,Distance Running,Male,18,2025-09-16,64.1,12.1,66.7,48,220.34,seconds per km (3000m TT),58.63
+DR-M-03,Distance Running,Male,1,2024-04-11,62.8,11.8,69.0,49,194.0,seconds per km (3000m TT),93.33
+DR-M-03,Distance Running,Male,2,2024-05-14,62.8,12.5,68.0,54,195.34,seconds per km (3000m TT),91.57
+DR-M-03,Distance Running,Male,3,2024-06-17,60.3,10.9,71.6,51,193.82,seconds per km (3000m TT),93.57
+DR-M-03,Distance Running,Male,4,2024-07-17,60.3,11.6,70.1,45,200.97,seconds per km (3000m TT),84.15
+DR-M-03,Distance Running,Male,5,2024-08-15,61.6,12.2,66.7,51,199.87,seconds per km (3000m TT),85.6
+DR-M-03,Distance Running,Male,6,2024-09-18,62.2,10.9,69.7,45,203.12,seconds per km (3000m TT),81.32
+DR-M-03,Distance Running,Male,7,2024-10-16,62.6,12.9,73.8,49,189.78,seconds per km (3000m TT),98.89
+DR-M-03,Distance Running,Male,8,2024-11-17,60.9,12.6,68.4,50,193.51,seconds per km (3000m TT),93.98
+DR-M-03,Distance Running,Male,9,2024-12-13,62.6,12.7,71.1,52,188.94,seconds per km (3000m TT),100.0
+DR-M-03,Distance Running,Male,10,2025-01-18,62.7,12.3,69.0,52,195.07,seconds per km (3000m TT),91.92
+DR-M-03,Distance Running,Male,11,2025-02-11,61.4,11.9,69.1,49,200.61,seconds per km (3000m TT),84.62
+DR-M-03,Distance Running,Male,12,2025-03-14,62.2,11.4,67.4,48,198.0,seconds per km (3000m TT),88.06
+DR-M-03,Distance Running,Male,13,2025-04-15,63.8,11.4,69.9,50,198.96,seconds per km (3000m TT),86.8
+DR-M-03,Distance Running,Male,14,2025-05-12,64.2,12.5,66.4,47,194.84,seconds per km (3000m TT),92.23
+DR-M-03,Distance Running,Male,15,2025-06-13,60.6,10.7,70.1,48,194.64,seconds per km (3000m TT),92.49
+DR-M-03,Distance Running,Male,16,2025-07-11,61.0,11.5,68.4,52,199.74,seconds per km (3000m TT),85.77
+DR-M-03,Distance Running,Male,17,2025-08-15,61.2,12.0,68.1,51,198.59,seconds per km (3000m TT),87.29
+DR-M-03,Distance Running,Male,18,2025-09-16,62.1,12.3,68.1,53,200.69,seconds per km (3000m TT),84.52
+DR-M-04,Distance Running,Male,1,2024-04-11,58.2,10.9,69.5,46,214.09,seconds per km (3000m TT),66.86
+DR-M-04,Distance Running,Male,2,2024-05-14,58.7,10.4,69.7,50,215.05,seconds per km (3000m TT),65.6
+DR-M-04,Distance Running,Male,3,2024-06-17,58.6,11.5,67.2,44,210.29,seconds per km (3000m TT),71.87
+DR-M-04,Distance Running,Male,4,2024-07-17,57.3,11.0,70.9,45,216.94,seconds per km (3000m TT),63.11
+DR-M-04,Distance Running,Male,5,2024-08-15,59.3,12.5,66.7,45,226.62,seconds per km (3000m TT),50.36
+DR-M-04,Distance Running,Male,6,2024-09-18,59.1,11.1,71.9,44,215.24,seconds per km (3000m TT),65.35
+DR-M-04,Distance Running,Male,7,2024-10-16,59.7,12.5,72.3,45,216.72,seconds per km (3000m TT),63.4
+DR-M-04,Distance Running,Male,8,2024-11-17,58.5,10.6,70.6,43,213.09,seconds per km (3000m TT),68.18
+DR-M-04,Distance Running,Male,9,2024-12-13,57.5,12.0,69.7,45,213.92,seconds per km (3000m TT),67.09
+DR-M-04,Distance Running,Male,10,2025-01-18,58.2,10.1,66.2,46,219.33,seconds per km (3000m TT),59.96
+DR-M-04,Distance Running,Male,11,2025-02-11,58.5,11.6,68.2,43,225.48,seconds per km (3000m TT),51.86
+DR-M-04,Distance Running,Male,12,2025-03-14,56.8,11.2,68.6,45,221.99,seconds per km (3000m TT),56.46
+DR-M-04,Distance Running,Male,13,2025-04-15,59.3,11.6,66.8,49,225.31,seconds per km (3000m TT),52.08
+DR-M-04,Distance Running,Male,14,2025-05-12,58.7,12.2,70.4,45,221.13,seconds per km (3000m TT),57.59
+DR-M-04,Distance Running,Male,15,2025-06-13,59.0,11.6,72.4,47,218.99,seconds per km (3000m TT),60.41
+DR-M-04,Distance Running,Male,16,2025-07-11,57.1,11.2,66.8,41,212.16,seconds per km (3000m TT),69.41
+DR-M-04,Distance Running,Male,17,2025-08-15,58.2,12.1,64.3,44,219.69,seconds per km (3000m TT),59.49
+DR-M-04,Distance Running,Male,18,2025-09-16,59.2,12.1,66.7,47,219.18,seconds per km (3000m TT),60.16
+DR-M-05,Distance Running,Male,1,2024-04-11,67.9,8.5,76.4,51,216.24,seconds per km (3000m TT),64.03
+DR-M-05,Distance Running,Male,2,2024-05-14,67.7,10.3,78.9,56,211.79,seconds per km (3000m TT),69.89
+DR-M-05,Distance Running,Male,3,2024-06-17,68.7,8.6,72.6,48,214.54,seconds per km (3000m TT),66.27
+DR-M-05,Distance Running,Male,4,2024-07-17,66.8,11.3,72.3,48,212.51,seconds per km (3000m TT),68.95
+DR-M-05,Distance Running,Male,5,2024-08-15,68.7,9.0,72.4,48,215.6,seconds per km (3000m TT),64.87
+DR-M-05,Distance Running,Male,6,2024-09-18,65.7,9.7,74.5,51,220.43,seconds per km (3000m TT),58.51
+DR-M-05,Distance Running,Male,7,2024-10-16,68.3,10.6,76.9,51,217.65,seconds per km (3000m TT),62.17
+DR-M-05,Distance Running,Male,8,2024-11-17,66.6,10.1,74.1,46,210.17,seconds per km (3000m TT),72.03
+DR-M-05,Distance Running,Male,9,2024-12-13,66.3,8.8,72.1,51,212.07,seconds per km (3000m TT),69.53
+DR-M-05,Distance Running,Male,10,2025-01-18,65.1,8.5,72.2,52,211.44,seconds per km (3000m TT),70.36
+DR-M-05,Distance Running,Male,11,2025-02-11,66.9,9.5,72.6,49,218.94,seconds per km (3000m TT),60.47
+DR-M-05,Distance Running,Male,12,2025-03-14,66.5,11.2,72.7,53,219.58,seconds per km (3000m TT),59.63
+DR-M-05,Distance Running,Male,13,2025-04-15,67.6,8.8,74.9,49,212.48,seconds per km (3000m TT),68.99
+DR-M-05,Distance Running,Male,14,2025-05-12,67.3,9.6,67.1,52,217.02,seconds per km (3000m TT),63.0
+DR-M-05,Distance Running,Male,15,2025-06-13,67.4,10.7,74.6,53,209.79,seconds per km (3000m TT),72.53
+DR-M-05,Distance Running,Male,16,2025-07-11,64.6,11.3,70.2,53,215.02,seconds per km (3000m TT),65.64
+DR-M-05,Distance Running,Male,17,2025-08-15,66.2,9.0,71.8,49,216.07,seconds per km (3000m TT),64.26
+DR-M-05,Distance Running,Male,18,2025-09-16,67.8,9.4,72.2,51,213.56,seconds per km (3000m TT),67.56
+DR-M-06,Distance Running,Male,1,2024-04-11,63.0,11.5,71.4,50,198.43,seconds per km (3000m TT),87.5
+DR-M-06,Distance Running,Male,2,2024-05-14,64.4,11.3,73.5,54,200.27,seconds per km (3000m TT),85.07
+DR-M-06,Distance Running,Male,3,2024-06-17,64.4,11.0,71.8,53,201.71,seconds per km (3000m TT),83.18
+DR-M-06,Distance Running,Male,4,2024-07-17,62.8,10.6,70.3,49,203.74,seconds per km (3000m TT),80.5
+DR-M-06,Distance Running,Male,5,2024-08-15,65.1,11.0,74.2,49,206.33,seconds per km (3000m TT),77.09
+DR-M-06,Distance Running,Male,6,2024-09-18,62.2,11.2,71.4,55,209.43,seconds per km (3000m TT),73.0
+DR-M-06,Distance Running,Male,7,2024-10-16,63.9,10.2,71.8,51,208.04,seconds per km (3000m TT),74.84
+DR-M-06,Distance Running,Male,8,2024-11-17,65.0,11.2,71.4,51,196.79,seconds per km (3000m TT),89.66
+DR-M-06,Distance Running,Male,9,2024-12-13,64.0,8.8,76.7,54,202.1,seconds per km (3000m TT),82.66
+DR-M-06,Distance Running,Male,10,2025-01-18,63.4,10.4,66.6,48,198.31,seconds per km (3000m TT),87.65
+DR-M-06,Distance Running,Male,11,2025-02-11,64.3,10.3,73.0,54,200.73,seconds per km (3000m TT),84.47
+DR-M-06,Distance Running,Male,12,2025-03-14,64.0,11.1,70.2,57,199.31,seconds per km (3000m TT),86.34
+DR-M-06,Distance Running,Male,13,2025-04-15,64.7,10.5,70.3,50,204.55,seconds per km (3000m TT),79.43
+DR-M-06,Distance Running,Male,14,2025-05-12,61.8,10.4,69.4,54,201.91,seconds per km (3000m TT),82.91
+DR-M-06,Distance Running,Male,15,2025-06-13,63.1,11.0,75.1,48,198.88,seconds per km (3000m TT),86.9
+DR-M-06,Distance Running,Male,16,2025-07-11,64.0,10.5,69.9,54,200.18,seconds per km (3000m TT),85.19
+DR-M-06,Distance Running,Male,17,2025-08-15,62.5,10.6,74.3,49,201.22,seconds per km (3000m TT),83.82
+DR-M-06,Distance Running,Male,18,2025-09-16,63.2,10.7,74.7,54,197.36,seconds per km (3000m TT),88.91
+DR-M-07,Distance Running,Male,1,2024-04-11,54.5,9.5,68.7,44,200.73,seconds per km (3000m TT),84.47
+DR-M-07,Distance Running,Male,2,2024-05-14,56.3,9.4,67.3,43,196.4,seconds per km (3000m TT),90.17
+DR-M-07,Distance Running,Male,3,2024-06-17,57.3,9.7,74.8,48,203.8,seconds per km (3000m TT),80.42
+DR-M-07,Distance Running,Male,4,2024-07-17,56.9,10.1,72.0,42,203.44,seconds per km (3000m TT),80.9
+DR-M-07,Distance Running,Male,5,2024-08-15,56.0,10.1,70.2,42,207.5,seconds per km (3000m TT),75.55
+DR-M-07,Distance Running,Male,6,2024-09-18,58.1,9.3,70.8,43,209.84,seconds per km (3000m TT),72.46
+DR-M-07,Distance Running,Male,7,2024-10-16,56.2,12.9,70.9,39,203.59,seconds per km (3000m TT),80.7
+DR-M-07,Distance Running,Male,8,2024-11-17,55.4,10.6,69.2,45,200.31,seconds per km (3000m TT),85.02
+DR-M-07,Distance Running,Male,9,2024-12-13,56.2,11.2,71.9,47,197.41,seconds per km (3000m TT),88.84
+DR-M-07,Distance Running,Male,10,2025-01-18,56.1,10.4,67.9,44,203.86,seconds per km (3000m TT),80.34
+DR-M-07,Distance Running,Male,11,2025-02-11,57.1,10.3,71.5,41,203.83,seconds per km (3000m TT),80.38
+DR-M-07,Distance Running,Male,12,2025-03-14,55.1,9.9,74.1,47,204.54,seconds per km (3000m TT),79.45
+DR-M-07,Distance Running,Male,13,2025-04-15,56.1,9.9,75.0,46,204.52,seconds per km (3000m TT),79.47
+DR-M-07,Distance Running,Male,14,2025-05-12,56.2,10.1,72.7,45,200.89,seconds per km (3000m TT),84.26
+DR-M-07,Distance Running,Male,15,2025-06-13,54.8,10.1,63.1,43,200.98,seconds per km (3000m TT),84.14
+DR-M-07,Distance Running,Male,16,2025-07-11,55.7,10.6,69.6,42,204.59,seconds per km (3000m TT),79.38
+DR-M-07,Distance Running,Male,17,2025-08-15,55.8,10.2,68.3,42,210.93,seconds per km (3000m TT),71.03
+DR-M-07,Distance Running,Male,18,2025-09-16,54.8,11.4,69.7,47,208.59,seconds per km (3000m TT),74.11
+DR-M-08,Distance Running,Male,1,2024-04-11,61.7,11.8,70.5,48,198.04,seconds per km (3000m TT),88.01
+DR-M-08,Distance Running,Male,2,2024-05-14,60.4,12.1,70.5,50,200.46,seconds per km (3000m TT),84.82
+DR-M-08,Distance Running,Male,3,2024-06-17,60.2,11.9,69.6,48,197.52,seconds per km (3000m TT),88.7
+DR-M-08,Distance Running,Male,4,2024-07-17,61.9,11.8,68.0,49,197.31,seconds per km (3000m TT),88.97
+DR-M-08,Distance Running,Male,5,2024-08-15,60.1,11.9,70.3,50,207.4,seconds per km (3000m TT),75.68
+DR-M-08,Distance Running,Male,6,2024-09-18,60.5,11.1,68.4,49,198.6,seconds per km (3000m TT),87.27
+DR-M-08,Distance Running,Male,7,2024-10-16,60.4,12.2,72.0,49,199.21,seconds per km (3000m TT),86.47
+DR-M-08,Distance Running,Male,8,2024-11-17,62.1,12.3,67.5,49,200.34,seconds per km (3000m TT),84.98
+DR-M-08,Distance Running,Male,9,2024-12-13,60.3,12.4,74.0,52,193.33,seconds per km (3000m TT),94.22
+DR-M-08,Distance Running,Male,10,2025-01-18,59.7,12.2,73.9,52,199.52,seconds per km (3000m TT),86.06
+DR-M-08,Distance Running,Male,11,2025-02-11,62.2,11.4,69.9,52,206.68,seconds per km (3000m TT),76.63
+DR-M-08,Distance Running,Male,12,2025-03-14,60.4,10.9,66.3,47,208.48,seconds per km (3000m TT),74.26
+DR-M-08,Distance Running,Male,13,2025-04-15,60.9,11.6,70.7,48,208.66,seconds per km (3000m TT),74.02
+DR-M-08,Distance Running,Male,14,2025-05-12,61.6,12.6,70.6,50,203.83,seconds per km (3000m TT),80.38
+DR-M-08,Distance Running,Male,15,2025-06-13,63.1,11.3,69.3,50,192.86,seconds per km (3000m TT),94.84
+DR-M-08,Distance Running,Male,16,2025-07-11,60.9,11.8,71.0,47,202.09,seconds per km (3000m TT),82.67
+DR-M-08,Distance Running,Male,17,2025-08-15,62.9,11.1,69.6,50,197.84,seconds per km (3000m TT),88.27
+DR-M-08,Distance Running,Male,18,2025-09-16,62.3,12.8,71.2,46,203.36,seconds per km (3000m TT),81.0
+DR-M-09,Distance Running,Male,1,2024-04-11,58.4,12.6,64.3,48,203.6,seconds per km (3000m TT),80.69
+DR-M-09,Distance Running,Male,2,2024-05-14,59.7,13.1,61.3,49,195.92,seconds per km (3000m TT),90.8
+DR-M-09,Distance Running,Male,3,2024-06-17,59.6,11.8,68.7,47,194.97,seconds per km (3000m TT),92.06
+DR-M-09,Distance Running,Male,4,2024-07-17,58.7,11.3,61.7,54,200.58,seconds per km (3000m TT),84.66
+DR-M-09,Distance Running,Male,5,2024-08-15,58.4,12.3,64.4,51,206.89,seconds per km (3000m TT),76.35
+DR-M-09,Distance Running,Male,6,2024-09-18,59.8,11.5,67.9,50,208.0,seconds per km (3000m TT),74.89
+DR-M-09,Distance Running,Male,7,2024-10-16,58.2,11.7,62.0,52,195.3,seconds per km (3000m TT),91.62
+DR-M-09,Distance Running,Male,8,2024-11-17,59.2,11.6,62.5,53,199.5,seconds per km (3000m TT),86.09
+DR-M-09,Distance Running,Male,9,2024-12-13,59.4,12.8,66.3,48,200.3,seconds per km (3000m TT),85.03
+DR-M-09,Distance Running,Male,10,2025-01-18,57.1,12.6,66.1,49,204.92,seconds per km (3000m TT),78.95
+DR-M-09,Distance Running,Male,11,2025-02-11,60.3,14.0,64.1,53,205.96,seconds per km (3000m TT),77.58
+DR-M-09,Distance Running,Male,12,2025-03-14,57.7,13.5,63.4,51,204.77,seconds per km (3000m TT),79.14
+DR-M-09,Distance Running,Male,13,2025-04-15,59.9,12.7,66.1,53,195.99,seconds per km (3000m TT),90.71
+DR-M-09,Distance Running,Male,14,2025-05-12,59.4,11.9,67.8,54,194.08,seconds per km (3000m TT),93.23
+DR-M-09,Distance Running,Male,15,2025-06-13,56.7,14.1,68.2,53,199.03,seconds per km (3000m TT),86.71
+DR-M-09,Distance Running,Male,16,2025-07-11,60.4,13.8,64.8,50,191.69,seconds per km (3000m TT),96.38
+DR-M-09,Distance Running,Male,17,2025-08-15,59.6,12.5,65.8,47,203.4,seconds per km (3000m TT),80.95
+DR-M-09,Distance Running,Male,18,2025-09-16,56.9,11.5,66.9,56,203.68,seconds per km (3000m TT),80.58
+DR-M-10,Distance Running,Male,1,2024-04-11,67.5,10.1,73.9,46,225.1,seconds per km (3000m TT),52.36
+DR-M-10,Distance Running,Male,2,2024-05-14,65.9,9.4,69.8,48,225.36,seconds per km (3000m TT),52.02
+DR-M-10,Distance Running,Male,3,2024-06-17,63.0,9.3,72.9,51,223.89,seconds per km (3000m TT),53.95
+DR-M-10,Distance Running,Male,4,2024-07-17,67.6,9.5,71.2,51,226.45,seconds per km (3000m TT),50.58
+DR-M-10,Distance Running,Male,5,2024-08-15,65.6,9.7,71.4,43,232.82,seconds per km (3000m TT),42.19
+DR-M-10,Distance Running,Male,6,2024-09-18,64.7,10.2,74.4,45,227.59,seconds per km (3000m TT),49.08
+DR-M-10,Distance Running,Male,7,2024-10-16,64.9,8.5,73.7,42,223.54,seconds per km (3000m TT),54.41
+DR-M-10,Distance Running,Male,8,2024-11-17,66.0,7.9,74.4,40,222.11,seconds per km (3000m TT),56.3
+DR-M-10,Distance Running,Male,9,2024-12-13,65.9,7.7,75.3,45,217.66,seconds per km (3000m TT),62.16
+DR-M-10,Distance Running,Male,10,2025-01-18,66.4,9.4,69.5,49,222.88,seconds per km (3000m TT),55.28
+DR-M-10,Distance Running,Male,11,2025-02-11,64.9,9.5,72.8,51,220.11,seconds per km (3000m TT),58.93
+DR-M-10,Distance Running,Male,12,2025-03-14,65.8,8.5,70.3,48,221.9,seconds per km (3000m TT),56.57
+DR-M-10,Distance Running,Male,13,2025-04-15,64.4,8.2,70.1,50,223.27,seconds per km (3000m TT),54.77
+DR-M-10,Distance Running,Male,14,2025-05-12,67.0,8.8,68.7,47,225.45,seconds per km (3000m TT),51.9
+DR-M-10,Distance Running,Male,15,2025-06-13,63.9,7.9,78.0,47,217.17,seconds per km (3000m TT),62.81
+DR-M-10,Distance Running,Male,16,2025-07-11,66.0,9.9,71.4,41,222.54,seconds per km (3000m TT),55.73
+DR-M-10,Distance Running,Male,17,2025-08-15,63.1,8.3,70.1,47,224.71,seconds per km (3000m TT),52.87
+DR-M-10,Distance Running,Male,18,2025-09-16,66.5,8.6,74.0,45,225.39,seconds per km (3000m TT),51.98
+DR-M-11,Distance Running,Male,1,2024-04-11,61.5,8.3,67.2,50,205.27,seconds per km (3000m TT),78.48
+DR-M-11,Distance Running,Male,2,2024-05-14,60.6,7.6,65.2,51,203.86,seconds per km (3000m TT),80.34
+DR-M-11,Distance Running,Male,3,2024-06-17,59.4,8.1,65.4,52,204.86,seconds per km (3000m TT),79.03
+DR-M-11,Distance Running,Male,4,2024-07-17,60.1,9.1,64.6,50,207.03,seconds per km (3000m TT),76.17
+DR-M-11,Distance Running,Male,5,2024-08-15,61.3,7.9,66.9,50,207.49,seconds per km (3000m TT),75.56
+DR-M-11,Distance Running,Male,6,2024-09-18,60.6,9.0,64.5,47,204.39,seconds per km (3000m TT),79.64
+DR-M-11,Distance Running,Male,7,2024-10-16,61.1,8.0,68.4,50,210.32,seconds per km (3000m TT),71.83
+DR-M-11,Distance Running,Male,8,2024-11-17,61.3,7.8,66.8,48,203.25,seconds per km (3000m TT),81.15
+DR-M-11,Distance Running,Male,9,2024-12-13,60.3,8.1,65.3,47,201.12,seconds per km (3000m TT),83.95
+DR-M-11,Distance Running,Male,10,2025-01-18,59.3,7.2,67.8,49,205.61,seconds per km (3000m TT),78.04
+DR-M-11,Distance Running,Male,11,2025-02-11,59.8,7.3,65.5,54,207.18,seconds per km (3000m TT),75.97
+DR-M-11,Distance Running,Male,12,2025-03-14,59.9,8.1,65.4,49,206.49,seconds per km (3000m TT),76.88
+DR-M-11,Distance Running,Male,13,2025-04-15,59.4,8.7,64.0,48,193.79,seconds per km (3000m TT),93.61
+DR-M-11,Distance Running,Male,14,2025-05-12,60.8,8.4,67.3,48,207.22,seconds per km (3000m TT),75.92
+DR-M-11,Distance Running,Male,15,2025-06-13,59.7,7.9,68.7,51,204.65,seconds per km (3000m TT),79.3
+DR-M-11,Distance Running,Male,16,2025-07-11,60.4,7.7,68.9,50,206.55,seconds per km (3000m TT),76.8
+DR-M-11,Distance Running,Male,17,2025-08-15,60.8,7.7,70.5,48,209.47,seconds per km (3000m TT),72.95
+DR-M-11,Distance Running,Male,18,2025-09-16,58.9,8.4,68.5,51,206.71,seconds per km (3000m TT),76.59
+DR-F-01,Distance Running,Female,1,2024-04-11,51.5,18.8,57.6,58,223.02,seconds per km (3000m TT),55.1
+DR-F-01,Distance Running,Female,2,2024-05-14,51.1,18.1,63.4,56,215.64,seconds per km (3000m TT),64.82
+DR-F-01,Distance Running,Female,3,2024-06-17,49.1,18.5,56.1,52,217.04,seconds per km (3000m TT),62.98
+DR-F-01,Distance Running,Female,4,2024-07-17,50.9,18.2,59.5,58,219.23,seconds per km (3000m TT),60.09
+DR-F-01,Distance Running,Female,5,2024-08-15,52.0,19.3,61.9,54,220.57,seconds per km (3000m TT),58.33
+DR-F-01,Distance Running,Female,6,2024-09-18,49.2,19.6,62.4,54,226.57,seconds per km (3000m TT),50.42
+DR-F-01,Distance Running,Female,7,2024-10-16,49.5,20.6,61.1,59,211.42,seconds per km (3000m TT),70.38
+DR-F-01,Distance Running,Female,8,2024-11-17,50.9,19.6,64.2,55,212.12,seconds per km (3000m TT),69.46
+DR-F-01,Distance Running,Female,9,2024-12-13,51.1,19.0,59.6,57,214.68,seconds per km (3000m TT),66.09
+DR-F-01,Distance Running,Female,10,2025-01-18,49.5,17.9,60.4,58,212.89,seconds per km (3000m TT),68.45
+DR-F-01,Distance Running,Female,11,2025-02-11,49.6,19.1,63.0,51,220.98,seconds per km (3000m TT),57.79
+DR-F-01,Distance Running,Female,12,2025-03-14,51.4,17.2,59.5,53,222.83,seconds per km (3000m TT),55.35
+DR-F-01,Distance Running,Female,13,2025-04-15,51.5,20.0,60.7,55,219.9,seconds per km (3000m TT),59.21
+DR-F-01,Distance Running,Female,14,2025-05-12,51.1,17.9,65.5,56,211.22,seconds per km (3000m TT),70.65
+DR-F-01,Distance Running,Female,15,2025-06-13,49.9,18.9,63.1,56,214.18,seconds per km (3000m TT),66.75
+DR-F-01,Distance Running,Female,16,2025-07-11,49.7,18.7,58.8,57,220.28,seconds per km (3000m TT),58.71
+DR-F-01,Distance Running,Female,17,2025-08-15,52.9,18.0,59.3,52,222.36,seconds per km (3000m TT),55.97
+DR-F-01,Distance Running,Female,18,2025-09-16,51.2,18.8,59.8,53,221.27,seconds per km (3000m TT),57.4
+DR-F-02,Distance Running,Female,1,2024-04-11,54.2,16.6,64.7,39,238.59,seconds per km (3000m TT),34.58
+DR-F-02,Distance Running,Female,2,2024-05-14,52.6,17.5,62.2,48,236.88,seconds per km (3000m TT),36.84
+DR-F-02,Distance Running,Female,3,2024-06-17,53.8,16.7,63.3,45,233.36,seconds per km (3000m TT),41.48
+DR-F-02,Distance Running,Female,4,2024-07-17,53.0,16.1,63.0,45,238.3,seconds per km (3000m TT),34.97
+DR-F-02,Distance Running,Female,5,2024-08-15,52.3,15.8,59.3,41,231.44,seconds per km (3000m TT),44.01
+DR-F-02,Distance Running,Female,6,2024-09-18,54.6,15.9,56.7,44,245.5,seconds per km (3000m TT),25.48
+DR-F-02,Distance Running,Female,7,2024-10-16,54.3,17.5,60.2,45,235.78,seconds per km (3000m TT),38.29
+DR-F-02,Distance Running,Female,8,2024-11-17,53.7,17.4,61.8,40,240.61,seconds per km (3000m TT),31.92
+DR-F-02,Distance Running,Female,9,2024-12-13,54.6,17.1,64.4,43,236.21,seconds per km (3000m TT),37.72
+DR-F-02,Distance Running,Female,10,2025-01-18,52.5,16.8,63.8,39,229.08,seconds per km (3000m TT),47.11
+DR-F-02,Distance Running,Female,11,2025-02-11,53.7,17.2,65.0,45,249.38,seconds per km (3000m TT),20.37
+DR-F-02,Distance Running,Female,12,2025-03-14,54.2,17.0,60.2,47,240.4,seconds per km (3000m TT),32.2
+DR-F-02,Distance Running,Female,13,2025-04-15,54.1,16.3,63.5,45,241.77,seconds per km (3000m TT),30.4
+DR-F-02,Distance Running,Female,14,2025-05-12,52.1,18.0,59.2,48,234.23,seconds per km (3000m TT),40.33
+DR-F-02,Distance Running,Female,15,2025-06-13,52.3,16.3,63.0,45,232.23,seconds per km (3000m TT),42.96
+DR-F-02,Distance Running,Female,16,2025-07-11,52.9,16.7,58.7,42,234.3,seconds per km (3000m TT),40.24
+DR-F-02,Distance Running,Female,17,2025-08-15,53.9,17.3,59.1,42,239.78,seconds per km (3000m TT),33.02
+DR-F-02,Distance Running,Female,18,2025-09-16,53.4,16.3,62.3,41,240.89,seconds per km (3000m TT),31.55
+DR-F-03,Distance Running,Female,1,2024-04-11,50.9,15.0,58.2,56,264.84,seconds per km (3000m TT),0.0
+DR-F-03,Distance Running,Female,2,2024-05-14,53.6,14.7,55.0,49,259.42,seconds per km (3000m TT),7.14
+DR-F-03,Distance Running,Female,3,2024-06-17,51.7,16.0,53.6,55,252.93,seconds per km (3000m TT),15.69
+DR-F-03,Distance Running,Female,4,2024-07-17,51.4,14.6,55.5,53,263.27,seconds per km (3000m TT),2.07
+DR-F-03,Distance Running,Female,5,2024-08-15,51.6,15.1,57.8,55,258.42,seconds per km (3000m TT),8.46
+DR-F-03,Distance Running,Female,6,2024-09-18,50.8,14.6,52.9,56,258.73,seconds per km (3000m TT),8.05
+DR-F-03,Distance Running,Female,7,2024-10-16,51.7,14.5,58.4,57,258.09,seconds per km (3000m TT),8.89
+DR-F-03,Distance Running,Female,8,2024-11-17,52.4,15.6,54.9,51,253.26,seconds per km (3000m TT),15.26
+DR-F-03,Distance Running,Female,9,2024-12-13,51.7,14.9,56.1,52,246.34,seconds per km (3000m TT),24.37
+DR-F-03,Distance Running,Female,10,2025-01-18,53.7,15.3,54.7,54,247.64,seconds per km (3000m TT),22.66
+DR-F-03,Distance Running,Female,11,2025-02-11,51.1,14.5,57.4,54,260.22,seconds per km (3000m TT),6.09
+DR-F-03,Distance Running,Female,12,2025-03-14,50.2,14.3,60.1,50,254.77,seconds per km (3000m TT),13.27
+DR-F-03,Distance Running,Female,13,2025-04-15,51.4,14.5,54.1,52,253.39,seconds per km (3000m TT),15.09
+DR-F-03,Distance Running,Female,14,2025-05-12,51.0,13.9,53.1,54,251.29,seconds per km (3000m TT),17.85
+DR-F-03,Distance Running,Female,15,2025-06-13,53.3,14.8,52.4,55,250.57,seconds per km (3000m TT),18.8
+DR-F-03,Distance Running,Female,16,2025-07-11,52.7,13.8,55.3,51,253.2,seconds per km (3000m TT),15.34
+DR-F-03,Distance Running,Female,17,2025-08-15,52.4,15.0,53.8,53,254.97,seconds per km (3000m TT),13.0
+DR-F-03,Distance Running,Female,18,2025-09-16,51.8,14.8,52.0,53,258.62,seconds per km (3000m TT),8.19
+DR-F-04,Distance Running,Female,1,2024-04-11,57.1,13.7,63.3,42,231.84,seconds per km (3000m TT),43.48
+DR-F-04,Distance Running,Female,2,2024-05-14,56.1,13.7,65.3,50,225.57,seconds per km (3000m TT),51.74
+DR-F-04,Distance Running,Female,3,2024-06-17,54.2,14.3,68.2,46,227.48,seconds per km (3000m TT),49.22
+DR-F-04,Distance Running,Female,4,2024-07-17,53.8,12.8,67.6,46,229.39,seconds per km (3000m TT),46.71
+DR-F-04,Distance Running,Female,5,2024-08-15,55.5,13.9,64.0,46,227.27,seconds per km (3000m TT),49.5
+DR-F-04,Distance Running,Female,6,2024-09-18,56.3,14.2,64.1,45,235.85,seconds per km (3000m TT),38.19
+DR-F-04,Distance Running,Female,7,2024-10-16,53.3,14.3,60.7,43,232.56,seconds per km (3000m TT),42.53
+DR-F-04,Distance Running,Female,8,2024-11-17,55.1,13.7,69.8,45,235.53,seconds per km (3000m TT),38.62
+DR-F-04,Distance Running,Female,9,2024-12-13,55.8,13.2,66.6,43,231.35,seconds per km (3000m TT),44.12
+DR-F-04,Distance Running,Female,10,2025-01-18,52.7,14.4,66.0,47,237.04,seconds per km (3000m TT),36.63
+DR-F-04,Distance Running,Female,11,2025-02-11,56.2,13.8,63.5,43,246.14,seconds per km (3000m TT),24.64
+DR-F-04,Distance Running,Female,12,2025-03-14,54.7,12.4,62.1,49,237.26,seconds per km (3000m TT),36.34
+DR-F-04,Distance Running,Female,13,2025-04-15,56.4,13.7,67.4,46,235.46,seconds per km (3000m TT),38.71
+DR-F-04,Distance Running,Female,14,2025-05-12,55.3,13.2,65.2,43,227.93,seconds per km (3000m TT),48.63
+DR-F-04,Distance Running,Female,15,2025-06-13,56.7,13.3,62.9,47,228.5,seconds per km (3000m TT),47.88
+DR-F-04,Distance Running,Female,16,2025-07-11,54.9,13.3,63.9,43,227.63,seconds per km (3000m TT),49.03
+DR-F-04,Distance Running,Female,17,2025-08-15,56.5,13.8,66.8,40,239.67,seconds per km (3000m TT),33.16
+DR-F-04,Distance Running,Female,18,2025-09-16,54.1,14.5,65.2,42,235.22,seconds per km (3000m TT),39.03
+DR-F-05,Distance Running,Female,1,2024-04-11,54.1,16.2,63.0,43,215.82,seconds per km (3000m TT),64.58
+DR-F-05,Distance Running,Female,2,2024-05-14,53.6,15.8,59.0,43,210.39,seconds per km (3000m TT),71.74
+DR-F-05,Distance Running,Female,3,2024-06-17,52.8,16.5,59.2,43,226.1,seconds per km (3000m TT),51.04
+DR-F-05,Distance Running,Female,4,2024-07-17,53.7,16.7,58.6,43,221.87,seconds per km (3000m TT),56.61
+DR-F-05,Distance Running,Female,5,2024-08-15,54.0,16.9,60.8,39,227.69,seconds per km (3000m TT),48.95
+DR-F-05,Distance Running,Female,6,2024-09-18,54.0,17.1,58.5,40,228.73,seconds per km (3000m TT),47.58
+DR-F-05,Distance Running,Female,7,2024-10-16,53.4,15.7,59.1,46,222.92,seconds per km (3000m TT),55.23
+DR-F-05,Distance Running,Female,8,2024-11-17,52.2,17.5,61.7,44,225.46,seconds per km (3000m TT),51.88
+DR-F-05,Distance Running,Female,9,2024-12-13,54.0,15.7,63.1,44,216.58,seconds per km (3000m TT),63.58
+DR-F-05,Distance Running,Female,10,2025-01-18,54.1,16.0,60.9,45,221.2,seconds per km (3000m TT),57.5
+DR-F-05,Distance Running,Female,11,2025-02-11,53.5,17.0,63.0,45,229.82,seconds per km (3000m TT),46.14
+DR-F-05,Distance Running,Female,12,2025-03-14,53.3,16.5,62.1,44,228.65,seconds per km (3000m TT),47.68
+DR-F-05,Distance Running,Female,13,2025-04-15,53.1,15.6,62.2,41,230.99,seconds per km (3000m TT),44.6
+DR-F-05,Distance Running,Female,14,2025-05-12,53.2,16.0,60.2,40,231.69,seconds per km (3000m TT),43.68
+DR-F-05,Distance Running,Female,15,2025-06-13,52.0,16.9,61.5,44,225.61,seconds per km (3000m TT),51.69
+DR-F-05,Distance Running,Female,16,2025-07-11,54.9,16.1,67.2,44,221.85,seconds per km (3000m TT),56.64
+DR-F-05,Distance Running,Female,17,2025-08-15,53.0,16.5,61.1,48,226.59,seconds per km (3000m TT),50.4
+DR-F-05,Distance Running,Female,18,2025-09-16,53.7,16.2,63.8,48,225.67,seconds per km (3000m TT),51.61
+DR-F-06,Distance Running,Female,1,2024-04-11,51.1,16.7,65.9,54,249.34,seconds per km (3000m TT),20.42
+DR-F-06,Distance Running,Female,2,2024-05-14,50.5,17.2,65.4,51,242.9,seconds per km (3000m TT),28.91
+DR-F-06,Distance Running,Female,3,2024-06-17,52.0,17.5,70.1,55,241.75,seconds per km (3000m TT),30.42
+DR-F-06,Distance Running,Female,4,2024-07-17,53.2,16.9,71.5,52,247.83,seconds per km (3000m TT),22.41
+DR-F-06,Distance Running,Female,5,2024-08-15,51.3,16.5,66.1,55,246.72,seconds per km (3000m TT),23.87
+DR-F-06,Distance Running,Female,6,2024-09-18,50.2,16.4,64.8,53,253.37,seconds per km (3000m TT),15.11
+DR-F-06,Distance Running,Female,7,2024-10-16,52.3,16.3,66.8,51,254.44,seconds per km (3000m TT),13.7
+DR-F-06,Distance Running,Female,8,2024-11-17,49.8,18.0,64.1,52,241.36,seconds per km (3000m TT),30.94
+DR-F-06,Distance Running,Female,9,2024-12-13,51.5,16.8,60.8,59,241.26,seconds per km (3000m TT),31.07
+DR-F-06,Distance Running,Female,10,2025-01-18,51.2,16.1,67.0,50,248.97,seconds per km (3000m TT),20.91
+DR-F-06,Distance Running,Female,11,2025-02-11,51.6,15.6,65.8,57,255.34,seconds per km (3000m TT),12.52
+DR-F-06,Distance Running,Female,12,2025-03-14,52.9,16.2,68.6,56,251.46,seconds per km (3000m TT),17.63
+DR-F-06,Distance Running,Female,13,2025-04-15,50.9,16.5,67.6,53,245.62,seconds per km (3000m TT),25.32
+DR-F-06,Distance Running,Female,14,2025-05-12,48.7,17.5,66.3,54,247.19,seconds per km (3000m TT),23.25
+DR-F-06,Distance Running,Female,15,2025-06-13,52.4,17.1,66.6,54,249.14,seconds per km (3000m TT),20.69
+DR-F-06,Distance Running,Female,16,2025-07-11,51.5,17.0,68.9,56,247.48,seconds per km (3000m TT),22.87
+DR-F-06,Distance Running,Female,17,2025-08-15,53.0,16.9,63.9,53,250.58,seconds per km (3000m TT),18.79
+DR-F-06,Distance Running,Female,18,2025-09-16,50.3,16.5,63.1,55,257.03,seconds per km (3000m TT),10.29
+RO-M-01,Rowing,Male,1,2024-04-11,81.7,13.0,60.9,53,335.1,Watts (2000m erg mean power),65.46
+RO-M-01,Rowing,Male,2,2024-05-14,81.8,13.9,62.4,53,349.1,Watts (2000m erg mean power),74.53
+RO-M-01,Rowing,Male,3,2024-06-17,82.9,12.8,61.0,51,344.2,Watts (2000m erg mean power),71.35
+RO-M-01,Rowing,Male,4,2024-07-17,85.2,12.2,64.5,53,336.6,Watts (2000m erg mean power),66.43
+RO-M-01,Rowing,Male,5,2024-08-15,84.3,14.5,65.0,53,333.0,Watts (2000m erg mean power),64.1
+RO-M-01,Rowing,Male,6,2024-09-18,82.6,12.8,64.7,55,342.6,Watts (2000m erg mean power),70.32
+RO-M-01,Rowing,Male,7,2024-10-16,82.9,14.5,63.1,54,346.3,Watts (2000m erg mean power),72.72
+RO-M-01,Rowing,Male,8,2024-11-17,84.9,13.7,61.0,54,352.9,Watts (2000m erg mean power),76.99
+RO-M-01,Rowing,Male,9,2024-12-13,81.1,13.0,60.9,54,344.5,Watts (2000m erg mean power),71.55
+RO-M-01,Rowing,Male,10,2025-01-18,81.9,13.4,63.6,55,350.4,Watts (2000m erg mean power),75.37
+RO-M-01,Rowing,Male,11,2025-02-11,82.7,12.9,64.4,51,345.1,Watts (2000m erg mean power),71.94
+RO-M-01,Rowing,Male,12,2025-03-14,81.1,13.2,60.9,55,327.8,Watts (2000m erg mean power),60.73
+RO-M-01,Rowing,Male,13,2025-04-15,85.6,12.1,63.8,54,336.4,Watts (2000m erg mean power),66.3
+RO-M-01,Rowing,Male,14,2025-05-12,81.9,13.5,60.4,58,350.1,Watts (2000m erg mean power),75.18
+RO-M-01,Rowing,Male,15,2025-06-13,83.9,12.0,61.6,53,352.0,Watts (2000m erg mean power),76.41
+RO-M-01,Rowing,Male,16,2025-07-11,82.5,12.4,62.1,51,340.9,Watts (2000m erg mean power),69.22
+RO-M-01,Rowing,Male,17,2025-08-15,83.2,12.7,66.6,55,334.0,Watts (2000m erg mean power),64.74
+RO-M-01,Rowing,Male,18,2025-09-16,80.4,13.0,63.7,51,327.9,Watts (2000m erg mean power),60.79
+RO-M-02,Rowing,Male,1,2024-04-11,89.0,9.7,69.8,50,361.8,Watts (2000m erg mean power),82.76
+RO-M-02,Rowing,Male,2,2024-05-14,91.3,10.1,67.3,49,369.5,Watts (2000m erg mean power),87.75
+RO-M-02,Rowing,Male,3,2024-06-17,90.2,10.0,63.3,48,366.1,Watts (2000m erg mean power),85.55
+RO-M-02,Rowing,Male,4,2024-07-17,90.3,8.9,68.2,54,354.5,Watts (2000m erg mean power),78.03
+RO-M-02,Rowing,Male,5,2024-08-15,88.2,9.4,67.1,51,345.6,Watts (2000m erg mean power),72.26
+RO-M-02,Rowing,Male,6,2024-09-18,88.2,11.3,69.2,50,367.3,Watts (2000m erg mean power),86.33
+RO-M-02,Rowing,Male,7,2024-10-16,90.2,9.1,65.3,47,352.7,Watts (2000m erg mean power),76.86
+RO-M-02,Rowing,Male,8,2024-11-17,86.2,9.4,66.6,48,360.8,Watts (2000m erg mean power),82.11
+RO-M-02,Rowing,Male,9,2024-12-13,89.0,9.8,66.1,54,358.0,Watts (2000m erg mean power),80.3
+RO-M-02,Rowing,Male,10,2025-01-18,89.9,8.8,70.3,48,361.2,Watts (2000m erg mean power),82.37
+RO-M-02,Rowing,Male,11,2025-02-11,87.2,10.4,71.2,50,338.7,Watts (2000m erg mean power),67.79
+RO-M-02,Rowing,Male,12,2025-03-14,87.6,10.0,70.1,50,351.7,Watts (2000m erg mean power),76.22
+RO-M-02,Rowing,Male,13,2025-04-15,87.1,10.1,71.4,53,361.1,Watts (2000m erg mean power),82.31
+RO-M-02,Rowing,Male,14,2025-05-12,88.5,10.7,64.7,51,367.1,Watts (2000m erg mean power),86.2
+RO-M-02,Rowing,Male,15,2025-06-13,88.4,9.1,68.2,50,373.9,Watts (2000m erg mean power),90.6
+RO-M-02,Rowing,Male,16,2025-07-11,87.1,10.4,69.1,52,353.8,Watts (2000m erg mean power),77.58
+RO-M-02,Rowing,Male,17,2025-08-15,88.0,10.8,66.5,53,362.7,Watts (2000m erg mean power),83.34
+RO-M-02,Rowing,Male,18,2025-09-16,86.8,10.5,66.5,53,343.3,Watts (2000m erg mean power),70.77
+RO-M-03,Rowing,Male,1,2024-04-11,89.6,12.1,72.4,49,388.4,Watts (2000m erg mean power),100.0
+RO-M-03,Rowing,Male,2,2024-05-14,87.3,13.9,64.0,52,373.2,Watts (2000m erg mean power),90.15
+RO-M-03,Rowing,Male,3,2024-06-17,90.3,12.9,68.8,47,383.4,Watts (2000m erg mean power),96.76
+RO-M-03,Rowing,Male,4,2024-07-17,92.0,12.1,68.6,48,363.0,Watts (2000m erg mean power),83.54
+RO-M-03,Rowing,Male,5,2024-08-15,90.2,12.0,67.0,47,359.9,Watts (2000m erg mean power),81.53
+RO-M-03,Rowing,Male,6,2024-09-18,90.9,11.4,65.4,50,374.5,Watts (2000m erg mean power),90.99
+RO-M-03,Rowing,Male,7,2024-10-16,90.4,13.6,67.8,50,366.8,Watts (2000m erg mean power),86.0
+RO-M-03,Rowing,Male,8,2024-11-17,89.7,12.4,68.0,52,378.8,Watts (2000m erg mean power),93.78
+RO-M-03,Rowing,Male,9,2024-12-13,88.0,12.3,66.8,51,372.5,Watts (2000m erg mean power),89.7
+RO-M-03,Rowing,Male,10,2025-01-18,89.1,11.3,68.9,52,373.7,Watts (2000m erg mean power),90.47
+RO-M-03,Rowing,Male,11,2025-02-11,90.4,11.2,69.4,50,374.8,Watts (2000m erg mean power),91.19
+RO-M-03,Rowing,Male,12,2025-03-14,90.3,12.2,71.6,52,363.8,Watts (2000m erg mean power),84.06
+RO-M-03,Rowing,Male,13,2025-04-15,91.6,11.5,66.0,52,364.2,Watts (2000m erg mean power),84.32
+RO-M-03,Rowing,Male,14,2025-05-12,88.0,12.4,66.6,46,384.4,Watts (2000m erg mean power),97.41
+RO-M-03,Rowing,Male,15,2025-06-13,90.5,11.7,68.1,47,377.0,Watts (2000m erg mean power),92.61
+RO-M-03,Rowing,Male,16,2025-07-11,90.1,12.0,68.1,48,381.6,Watts (2000m erg mean power),95.59
+RO-M-03,Rowing,Male,17,2025-08-15,91.2,12.9,68.6,49,359.0,Watts (2000m erg mean power),80.95
+RO-M-03,Rowing,Male,18,2025-09-16,90.6,10.9,66.7,48,348.9,Watts (2000m erg mean power),74.4
+RO-M-04,Rowing,Male,1,2024-04-11,80.1,15.3,69.1,48,352.1,Watts (2000m erg mean power),76.47
+RO-M-04,Rowing,Male,2,2024-05-14,81.4,14.5,64.8,43,366.0,Watts (2000m erg mean power),85.48
+RO-M-04,Rowing,Male,3,2024-06-17,81.3,14.6,65.4,48,366.4,Watts (2000m erg mean power),85.74
+RO-M-04,Rowing,Male,4,2024-07-17,77.8,15.8,67.0,40,358.1,Watts (2000m erg mean power),80.36
+RO-M-04,Rowing,Male,5,2024-08-15,81.6,14.4,66.3,42,338.5,Watts (2000m erg mean power),67.66
+RO-M-04,Rowing,Male,6,2024-09-18,81.1,14.4,65.5,47,341.9,Watts (2000m erg mean power),69.86
+RO-M-04,Rowing,Male,7,2024-10-16,76.4,13.6,67.5,49,356.7,Watts (2000m erg mean power),79.46
+RO-M-04,Rowing,Male,8,2024-11-17,78.8,15.4,68.9,46,366.8,Watts (2000m erg mean power),86.0
+RO-M-04,Rowing,Male,9,2024-12-13,80.4,15.4,69.3,46,363.1,Watts (2000m erg mean power),83.6
+RO-M-04,Rowing,Male,10,2025-01-18,83.4,14.8,64.5,46,347.6,Watts (2000m erg mean power),73.56
+RO-M-04,Rowing,Male,11,2025-02-11,81.5,14.2,67.1,43,333.7,Watts (2000m erg mean power),64.55
+RO-M-04,Rowing,Male,12,2025-03-14,79.0,14.8,69.0,47,344.9,Watts (2000m erg mean power),71.81
+RO-M-04,Rowing,Male,13,2025-04-15,81.3,13.2,64.9,45,361.3,Watts (2000m erg mean power),82.44
+RO-M-04,Rowing,Male,14,2025-05-12,79.6,12.6,67.9,39,363.6,Watts (2000m erg mean power),83.93
+RO-M-04,Rowing,Male,15,2025-06-13,81.8,14.4,65.3,46,364.4,Watts (2000m erg mean power),84.45
+RO-M-04,Rowing,Male,16,2025-07-11,79.7,13.7,68.6,42,348.1,Watts (2000m erg mean power),73.88
+RO-M-04,Rowing,Male,17,2025-08-15,80.6,14.6,70.8,47,346.4,Watts (2000m erg mean power),72.78
+RO-M-04,Rowing,Male,18,2025-09-16,79.4,15.3,67.6,47,357.3,Watts (2000m erg mean power),79.84
+RO-M-05,Rowing,Male,1,2024-04-11,93.2,11.5,62.6,52,344.7,Watts (2000m erg mean power),71.68
+RO-M-05,Rowing,Male,2,2024-05-14,92.4,10.7,64.4,50,357.6,Watts (2000m erg mean power),80.04
+RO-M-05,Rowing,Male,3,2024-06-17,91.6,10.8,63.1,51,361.7,Watts (2000m erg mean power),82.7
+RO-M-05,Rowing,Male,4,2024-07-17,95.4,10.1,61.3,52,338.3,Watts (2000m erg mean power),67.53
+RO-M-05,Rowing,Male,5,2024-08-15,87.9,12.6,61.6,47,346.5,Watts (2000m erg mean power),72.85
+RO-M-05,Rowing,Male,6,2024-09-18,92.8,11.2,65.3,52,356.2,Watts (2000m erg mean power),79.13
+RO-M-05,Rowing,Male,7,2024-10-16,96.3,10.6,63.7,51,356.7,Watts (2000m erg mean power),79.46
+RO-M-05,Rowing,Male,8,2024-11-17,92.5,11.3,61.3,46,359.4,Watts (2000m erg mean power),81.21
+RO-M-05,Rowing,Male,9,2024-12-13,91.7,11.7,60.5,54,354.8,Watts (2000m erg mean power),78.22
+RO-M-05,Rowing,Male,10,2025-01-18,92.3,10.6,64.4,50,358.7,Watts (2000m erg mean power),80.75
+RO-M-05,Rowing,Male,11,2025-02-11,91.3,12.1,66.5,54,352.7,Watts (2000m erg mean power),76.86
+RO-M-05,Rowing,Male,12,2025-03-14,90.7,11.0,62.1,51,357.2,Watts (2000m erg mean power),79.78
+RO-M-05,Rowing,Male,13,2025-04-15,92.1,11.1,60.8,47,341.3,Watts (2000m erg mean power),69.48
+RO-M-05,Rowing,Male,14,2025-05-12,92.1,11.1,60.0,51,350.9,Watts (2000m erg mean power),75.7
+RO-M-05,Rowing,Male,15,2025-06-13,91.6,10.8,59.2,46,355.9,Watts (2000m erg mean power),78.94
+RO-M-05,Rowing,Male,16,2025-07-11,90.8,11.5,60.3,50,344.8,Watts (2000m erg mean power),71.74
+RO-M-05,Rowing,Male,17,2025-08-15,92.6,12.8,61.4,50,337.0,Watts (2000m erg mean power),66.69
+RO-M-05,Rowing,Male,18,2025-09-16,93.2,10.5,61.4,51,345.0,Watts (2000m erg mean power),71.87
+RO-M-06,Rowing,Male,1,2024-04-11,90.1,11.3,61.1,51,353.9,Watts (2000m erg mean power),77.64
+RO-M-06,Rowing,Male,2,2024-05-14,85.8,11.6,64.8,49,353.8,Watts (2000m erg mean power),77.58
+RO-M-06,Rowing,Male,3,2024-06-17,85.1,11.4,65.2,54,364.4,Watts (2000m erg mean power),84.45
+RO-M-06,Rowing,Male,4,2024-07-17,83.5,12.7,67.1,53,345.6,Watts (2000m erg mean power),72.26
+RO-M-06,Rowing,Male,5,2024-08-15,87.0,11.9,65.6,49,350.6,Watts (2000m erg mean power),75.5
+RO-M-06,Rowing,Male,6,2024-09-18,85.5,11.7,68.2,52,342.5,Watts (2000m erg mean power),70.25
+RO-M-06,Rowing,Male,7,2024-10-16,87.2,11.2,63.3,58,349.2,Watts (2000m erg mean power),74.59
+RO-M-06,Rowing,Male,8,2024-11-17,88.7,10.3,66.1,54,353.9,Watts (2000m erg mean power),77.64
+RO-M-06,Rowing,Male,9,2024-12-13,88.4,11.3,64.2,48,361.1,Watts (2000m erg mean power),82.31
+RO-M-06,Rowing,Male,10,2025-01-18,82.7,11.5,61.4,53,346.2,Watts (2000m erg mean power),72.65
+RO-M-06,Rowing,Male,11,2025-02-11,85.9,11.8,66.3,50,350.6,Watts (2000m erg mean power),75.5
+RO-M-06,Rowing,Male,12,2025-03-14,88.1,12.2,67.8,52,344.2,Watts (2000m erg mean power),71.35
+RO-M-06,Rowing,Male,13,2025-04-15,89.5,11.2,65.9,52,358.5,Watts (2000m erg mean power),80.62
+RO-M-06,Rowing,Male,14,2025-05-12,87.8,12.0,64.4,53,363.4,Watts (2000m erg mean power),83.8
+RO-M-06,Rowing,Male,15,2025-06-13,84.3,11.9,66.7,52,359.5,Watts (2000m erg mean power),81.27
+RO-M-06,Rowing,Male,16,2025-07-11,85.9,11.0,68.4,50,350.0,Watts (2000m erg mean power),75.11
+RO-M-06,Rowing,Male,17,2025-08-15,83.0,12.2,69.5,53,353.3,Watts (2000m erg mean power),77.25
+RO-M-06,Rowing,Male,18,2025-09-16,86.3,11.0,63.4,50,344.3,Watts (2000m erg mean power),71.42
+RO-M-07,Rowing,Male,1,2024-04-11,76.0,12.4,58.4,52,301.7,Watts (2000m erg mean power),43.81
+RO-M-07,Rowing,Male,2,2024-05-14,77.7,11.9,59.3,48,309.6,Watts (2000m erg mean power),48.93
+RO-M-07,Rowing,Male,3,2024-06-17,75.9,11.6,56.3,54,319.7,Watts (2000m erg mean power),55.48
+RO-M-07,Rowing,Male,4,2024-07-17,78.3,12.8,57.9,56,309.3,Watts (2000m erg mean power),48.74
+RO-M-07,Rowing,Male,5,2024-08-15,78.4,11.4,61.5,50,306.9,Watts (2000m erg mean power),47.18
+RO-M-07,Rowing,Male,6,2024-09-18,76.1,11.7,61.6,55,321.7,Watts (2000m erg mean power),56.77
+RO-M-07,Rowing,Male,7,2024-10-16,76.3,11.8,61.1,49,310.4,Watts (2000m erg mean power),49.45
+RO-M-07,Rowing,Male,8,2024-11-17,78.9,11.7,62.9,51,320.5,Watts (2000m erg mean power),55.99
+RO-M-07,Rowing,Male,9,2024-12-13,77.3,11.5,63.9,48,309.6,Watts (2000m erg mean power),48.93
+RO-M-07,Rowing,Male,10,2025-01-18,77.7,11.4,57.7,50,324.5,Watts (2000m erg mean power),58.59
+RO-M-07,Rowing,Male,11,2025-02-11,76.2,11.7,60.1,56,313.8,Watts (2000m erg mean power),51.65
+RO-M-07,Rowing,Male,12,2025-03-14,76.4,12.2,57.6,53,302.7,Watts (2000m erg mean power),44.46
+RO-M-07,Rowing,Male,13,2025-04-15,77.8,11.3,60.8,51,318.9,Watts (2000m erg mean power),54.96
+RO-M-07,Rowing,Male,14,2025-05-12,78.1,12.1,58.4,53,308.2,Watts (2000m erg mean power),48.02
+RO-M-07,Rowing,Male,15,2025-06-13,78.5,11.7,61.4,57,316.7,Watts (2000m erg mean power),53.53
+RO-M-07,Rowing,Male,16,2025-07-11,75.2,11.4,60.9,55,317.2,Watts (2000m erg mean power),53.86
+RO-M-07,Rowing,Male,17,2025-08-15,79.1,12.6,59.9,59,305.0,Watts (2000m erg mean power),45.95
+RO-M-07,Rowing,Male,18,2025-09-16,77.6,12.0,63.6,54,318.9,Watts (2000m erg mean power),54.96
+RO-M-08,Rowing,Male,1,2024-04-11,92.5,14.3,68.9,53,346.8,Watts (2000m erg mean power),73.04
+RO-M-08,Rowing,Male,2,2024-05-14,87.3,13.9,65.0,53,368.8,Watts (2000m erg mean power),87.3
+RO-M-08,Rowing,Male,3,2024-06-17,90.7,13.5,65.3,55,347.3,Watts (2000m erg mean power),73.36
+RO-M-08,Rowing,Male,4,2024-07-17,88.4,12.5,63.4,50,362.1,Watts (2000m erg mean power),82.96
+RO-M-08,Rowing,Male,5,2024-08-15,89.2,13.2,72.5,56,362.4,Watts (2000m erg mean power),83.15
+RO-M-08,Rowing,Male,6,2024-09-18,90.7,13.3,66.8,53,348.6,Watts (2000m erg mean power),74.21
+RO-M-08,Rowing,Male,7,2024-10-16,87.1,12.1,68.0,50,359.8,Watts (2000m erg mean power),81.46
+RO-M-08,Rowing,Male,8,2024-11-17,88.8,13.4,68.3,53,360.3,Watts (2000m erg mean power),81.79
+RO-M-08,Rowing,Male,9,2024-12-13,89.3,13.4,66.8,53,347.4,Watts (2000m erg mean power),73.43
+RO-M-08,Rowing,Male,10,2025-01-18,88.8,14.7,62.1,52,358.0,Watts (2000m erg mean power),80.3
+RO-M-08,Rowing,Male,11,2025-02-11,85.9,14.3,64.6,52,358.6,Watts (2000m erg mean power),80.69
+RO-M-08,Rowing,Male,12,2025-03-14,89.8,14.7,66.5,56,344.0,Watts (2000m erg mean power),71.22
+RO-M-08,Rowing,Male,13,2025-04-15,87.0,13.4,64.5,51,344.9,Watts (2000m erg mean power),71.81
+RO-M-08,Rowing,Male,14,2025-05-12,90.8,13.9,64.9,53,364.9,Watts (2000m erg mean power),84.77
+RO-M-08,Rowing,Male,15,2025-06-13,89.2,13.3,67.4,54,359.5,Watts (2000m erg mean power),81.27
+RO-M-08,Rowing,Male,16,2025-07-11,90.0,13.3,66.1,54,346.5,Watts (2000m erg mean power),72.85
+RO-M-08,Rowing,Male,17,2025-08-15,90.1,14.7,64.6,54,354.8,Watts (2000m erg mean power),78.22
+RO-M-08,Rowing,Male,18,2025-09-16,89.8,13.5,66.6,52,357.0,Watts (2000m erg mean power),79.65
+RO-F-01,Rowing,Female,1,2024-04-11,67.3,16.8,61.9,47,315.2,Watts (2000m erg mean power),52.56
+RO-F-01,Rowing,Female,2,2024-05-14,67.0,16.3,59.1,53,309.7,Watts (2000m erg mean power),49.0
+RO-F-01,Rowing,Female,3,2024-06-17,67.3,16.5,63.9,51,309.2,Watts (2000m erg mean power),48.67
+RO-F-01,Rowing,Female,4,2024-07-17,65.9,17.4,60.4,52,290.6,Watts (2000m erg mean power),36.62
+RO-F-01,Rowing,Female,5,2024-08-15,67.8,18.3,63.1,49,295.6,Watts (2000m erg mean power),39.86
+RO-F-01,Rowing,Female,6,2024-09-18,67.9,17.4,59.6,47,284.5,Watts (2000m erg mean power),32.66
+RO-F-01,Rowing,Female,7,2024-10-16,68.1,17.3,68.0,54,284.3,Watts (2000m erg mean power),32.53
+RO-F-01,Rowing,Female,8,2024-11-17,66.2,16.8,65.2,46,298.7,Watts (2000m erg mean power),41.87
+RO-F-01,Rowing,Female,9,2024-12-13,64.9,18.0,62.8,50,311.8,Watts (2000m erg mean power),50.36
+RO-F-01,Rowing,Female,10,2025-01-18,68.4,16.5,64.6,50,293.8,Watts (2000m erg mean power),38.69
+RO-F-01,Rowing,Female,11,2025-02-11,67.3,16.8,64.8,48,293.3,Watts (2000m erg mean power),38.37
+RO-F-01,Rowing,Female,12,2025-03-14,69.4,18.1,63.2,48,298.4,Watts (2000m erg mean power),41.67
+RO-F-01,Rowing,Female,13,2025-04-15,69.1,18.0,63.7,50,286.5,Watts (2000m erg mean power),33.96
+RO-F-01,Rowing,Female,14,2025-05-12,66.9,16.8,60.9,49,295.7,Watts (2000m erg mean power),39.92
+RO-F-01,Rowing,Female,15,2025-06-13,69.3,16.9,60.2,50,309.8,Watts (2000m erg mean power),49.06
+RO-F-01,Rowing,Female,16,2025-07-11,66.1,17.3,62.6,54,291.0,Watts (2000m erg mean power),36.88
+RO-F-01,Rowing,Female,17,2025-08-15,68.5,18.5,60.4,54,294.2,Watts (2000m erg mean power),38.95
+RO-F-01,Rowing,Female,18,2025-09-16,68.8,16.0,66.7,52,288.2,Watts (2000m erg mean power),35.06
+RO-F-02,Rowing,Female,1,2024-04-11,71.5,19.9,54.4,56,300.7,Watts (2000m erg mean power),43.16
+RO-F-02,Rowing,Female,2,2024-05-14,72.8,19.5,54.9,56,308.2,Watts (2000m erg mean power),48.02
+RO-F-02,Rowing,Female,3,2024-06-17,72.9,20.5,54.7,49,315.2,Watts (2000m erg mean power),52.56
+RO-F-02,Rowing,Female,4,2024-07-17,73.8,20.5,54.5,60,300.5,Watts (2000m erg mean power),43.03
+RO-F-02,Rowing,Female,5,2024-08-15,71.6,19.4,50.7,54,302.1,Watts (2000m erg mean power),44.07
+RO-F-02,Rowing,Female,6,2024-09-18,71.7,20.2,49.6,53,293.6,Watts (2000m erg mean power),38.56
+RO-F-02,Rowing,Female,7,2024-10-16,69.3,19.5,53.4,55,296.7,Watts (2000m erg mean power),40.57
+RO-F-02,Rowing,Female,8,2024-11-17,71.6,20.0,51.0,56,303.3,Watts (2000m erg mean power),44.85
+RO-F-02,Rowing,Female,9,2024-12-13,71.5,19.8,53.0,59,314.9,Watts (2000m erg mean power),52.37
+RO-F-02,Rowing,Female,10,2025-01-18,70.4,19.9,51.6,56,309.2,Watts (2000m erg mean power),48.67
+RO-F-02,Rowing,Female,11,2025-02-11,71.2,20.0,52.8,58,290.6,Watts (2000m erg mean power),36.62
+RO-F-02,Rowing,Female,12,2025-03-14,73.0,21.2,51.9,54,288.9,Watts (2000m erg mean power),35.52
+RO-F-02,Rowing,Female,13,2025-04-15,72.5,21.1,51.2,55,290.8,Watts (2000m erg mean power),36.75
+RO-F-02,Rowing,Female,14,2025-05-12,72.7,20.3,53.6,51,296.4,Watts (2000m erg mean power),40.38
+RO-F-02,Rowing,Female,15,2025-06-13,71.8,20.0,55.2,55,307.1,Watts (2000m erg mean power),47.31
+RO-F-02,Rowing,Female,16,2025-07-11,73.8,18.6,55.5,57,297.2,Watts (2000m erg mean power),40.89
+RO-F-02,Rowing,Female,17,2025-08-15,70.7,19.5,50.2,53,276.5,Watts (2000m erg mean power),27.48
+RO-F-02,Rowing,Female,18,2025-09-16,74.1,19.3,55.4,56,282.9,Watts (2000m erg mean power),31.63
+RO-F-03,Rowing,Female,1,2024-04-11,66.2,16.4,63.1,56,240.5,Watts (2000m erg mean power),4.15
+RO-F-03,Rowing,Female,2,2024-05-14,66.1,17.4,65.3,53,261.0,Watts (2000m erg mean power),17.43
+RO-F-03,Rowing,Female,3,2024-06-17,65.4,16.6,61.5,53,253.0,Watts (2000m erg mean power),12.25
+RO-F-03,Rowing,Female,4,2024-07-17,66.4,16.9,66.6,51,250.4,Watts (2000m erg mean power),10.56
+RO-F-03,Rowing,Female,5,2024-08-15,67.9,16.4,59.1,54,244.0,Watts (2000m erg mean power),6.42
+RO-F-03,Rowing,Female,6,2024-09-18,67.1,16.5,65.5,50,234.1,Watts (2000m erg mean power),0.0
+RO-F-03,Rowing,Female,7,2024-10-16,68.8,16.4,61.4,51,246.8,Watts (2000m erg mean power),8.23
+RO-F-03,Rowing,Female,8,2024-11-17,65.0,17.4,61.7,54,261.2,Watts (2000m erg mean power),17.56
+RO-F-03,Rowing,Female,9,2024-12-13,67.8,16.8,60.5,52,258.9,Watts (2000m erg mean power),16.07
+RO-F-03,Rowing,Female,10,2025-01-18,66.1,17.3,60.2,54,251.2,Watts (2000m erg mean power),11.08
+RO-F-03,Rowing,Female,11,2025-02-11,66.2,16.5,62.1,53,251.5,Watts (2000m erg mean power),11.28
+RO-F-03,Rowing,Female,12,2025-03-14,67.8,16.4,63.8,50,242.4,Watts (2000m erg mean power),5.38
+RO-F-03,Rowing,Female,13,2025-04-15,67.0,17.0,62.8,51,245.0,Watts (2000m erg mean power),7.06
+RO-F-03,Rowing,Female,14,2025-05-12,66.7,16.4,65.4,53,251.0,Watts (2000m erg mean power),10.95
+RO-F-03,Rowing,Female,15,2025-06-13,67.9,17.3,62.8,55,253.6,Watts (2000m erg mean power),12.64
+RO-F-03,Rowing,Female,16,2025-07-11,67.2,17.1,61.4,53,244.5,Watts (2000m erg mean power),6.74
+RO-F-03,Rowing,Female,17,2025-08-15,66.5,18.0,65.0,52,257.9,Watts (2000m erg mean power),15.42
+RO-F-03,Rowing,Female,18,2025-09-16,67.7,16.4,63.4,52,243.3,Watts (2000m erg mean power),5.96
+RO-F-04,Rowing,Female,1,2024-04-11,69.1,17.3,60.0,49,301.8,Watts (2000m erg mean power),43.88
+RO-F-04,Rowing,Female,2,2024-05-14,72.7,16.9,64.4,51,286.7,Watts (2000m erg mean power),34.09
+RO-F-04,Rowing,Female,3,2024-06-17,70.1,18.6,62.2,49,313.9,Watts (2000m erg mean power),51.72
+RO-F-04,Rowing,Female,4,2024-07-17,69.0,18.2,60.4,48,307.8,Watts (2000m erg mean power),47.76
+RO-F-04,Rowing,Female,5,2024-08-15,70.3,16.7,60.8,49,288.8,Watts (2000m erg mean power),35.45
+RO-F-04,Rowing,Female,6,2024-09-18,70.0,16.5,64.0,50,306.3,Watts (2000m erg mean power),46.79
+RO-F-04,Rowing,Female,7,2024-10-16,69.5,17.3,61.9,49,296.7,Watts (2000m erg mean power),40.57
+RO-F-04,Rowing,Female,8,2024-11-17,70.6,17.4,59.6,51,304.6,Watts (2000m erg mean power),45.69
+RO-F-04,Rowing,Female,9,2024-12-13,68.9,16.6,62.9,54,330.7,Watts (2000m erg mean power),62.61
+RO-F-04,Rowing,Female,10,2025-01-18,70.0,15.8,60.6,53,297.6,Watts (2000m erg mean power),41.15
+RO-F-04,Rowing,Female,11,2025-02-11,71.0,17.3,60.3,48,301.8,Watts (2000m erg mean power),43.88
+RO-F-04,Rowing,Female,12,2025-03-14,69.5,17.2,63.0,47,304.8,Watts (2000m erg mean power),45.82
+RO-F-04,Rowing,Female,13,2025-04-15,68.9,16.9,65.4,51,297.7,Watts (2000m erg mean power),41.22
+RO-F-04,Rowing,Female,14,2025-05-12,68.8,16.3,60.9,49,310.7,Watts (2000m erg mean power),49.64
+RO-F-04,Rowing,Female,15,2025-06-13,70.7,17.2,61.2,51,309.3,Watts (2000m erg mean power),48.74
+RO-F-04,Rowing,Female,16,2025-07-11,68.4,16.2,58.2,49,302.8,Watts (2000m erg mean power),44.52
+RO-F-04,Rowing,Female,17,2025-08-15,70.5,15.8,63.7,50,294.6,Watts (2000m erg mean power),39.21
+RO-F-04,Rowing,Female,18,2025-09-16,68.0,16.1,59.3,48,289.8,Watts (2000m erg mean power),36.1

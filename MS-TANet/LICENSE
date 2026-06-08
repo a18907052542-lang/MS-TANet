@@ -1,0 +1,33 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+Code in this repository is licensed under the Apache License, Version 2.0.
+
+The accompanying dataset under `data/` is released under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0) — see https://creativecommons.org/licenses/by-nc/4.0/
+
+================================================================================
+Apache License 2.0 — Summary
+
+You may copy, modify, distribute, and use the code, in source or binary form,
+with or without modifications, for any purpose, including commercial, provided
+that you:
+
+  1. Include a copy of this licence with any distribution of the code.
+  2. Preserve copyright notices and attributions.
+  3. Indicate any changes made to the original source.
+
+The code is provided "AS IS", without warranty of any kind.
+
+================================================================================
+CC BY-NC 4.0 — Dataset Licence Summary
+
+You are free to:
+  * Share — copy and redistribute the material in any medium or format.
+  * Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+  * Attribution — give appropriate credit and indicate any changes made.
+  * NonCommercial — you may not use the material for commercial purposes.
